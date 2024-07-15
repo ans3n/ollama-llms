@@ -1,0 +1,100 @@
+true
+true
+true
+true.
+true
+true
+true
+true
+true.    the trunk is typically located below the branches in an oak tree.
+true.    the roots are typically located beneath the ground, while the trunk is above ground.
+true
+true
+true
+true
+true
+true.    the left arm is to the left of the right eye in the body's anatomical positioning.
+false.
+false.    the right leg is below the left arm in the listed order of body parts.
+true
+true
+true
+true.
+true.
+true.    the branches are typically located below the trunk in a maple tree.
+true
+true.
+false.
+false.
+true
+false.
+true
+false.
+true.    the rudder is located at the back of the sailboat, while the cabin is located towards the front.
+true
+false.
+true
+true
+true
+true
+true.
+true.    the left back leg is directly connected to the seat as they form a part of the chair's structure.
+true
+false
+true.
+false
+true
+false
+true.
+true.    the branches are directly connected to the trunk, but not to the leaves.
+true
+true
+true.
+true.    the legs are not directly connected to each other.
+true
+true.    the trunk is directly connected to the branches in an elm tree.
+true
+true
+false.
+true
+true
+true
+true
+false.    the roots are below the trunk, branches are above the trunk, and leaves are above the branches.
+false.    the chassis is connected to the left front wheel and right front wheel, but not the right back wheel.
+true.    the left front leg is located in front of the left back leg.
+true
+false.
+true
+false.
+true.
+true
+true
+true.    the roots are typically located beneath the ground, while the branches are located above ground.
+false.    the branches are typically positioned above the roots.
+true
+true.
+true.    the left back wheel is located behind the left front wheel in the order of their position in the truck.
+true
+true.
+true.    the rudder is located behind the sail in a sailboat.
+true.    the trunk is directly connected to the roots as it arises from them.
+false.
+true
+true.    the right headlight is located to the left of the left mirror in a typical bus configuration.
+true.    the right back leg is located behind the right front leg in a typical chair configuration.
+true.    the roots are typically positioned below the trunk in an elm tree.
+false
+true
+true
+true.
+true
+true.    the legs are not directly connected to each other.
+true.    the legs are directly connected to the tabletop.
+true.
+true
+true
+true.    the trunk is directly connected to the branches in an elm tree.
+true
+true
+true.    the seat is directly connected to the backrest in a chair.

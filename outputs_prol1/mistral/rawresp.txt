@@ -1,0 +1,100 @@
+true
+false. in a typical arrangement of a four-legged table, the tabletop is not located below any of the legs. it sits on top and is supported by the legs.
+false
+true
+true
+true
+false
+false. in a sailboat, the bow (front) is typically in front of the cabin, not behind it. the cabin is usually located towards the middle or rear of the boat.
+true
+true
+false. in a boat, the sail is typically positioned higher than the rudder. the sail is usually on the mast or rigging of the boat, while the rudder is located at the rear of the boat and controls its direction.
+false
+true
+false. in a typical bus layout, the left front wheel is to the left and the right front wheel is to the right when facing the front of the bus.
+false
+true
+false
+false. in a typical human body, the left arm is positioned left of the right leg.
+true
+true
+true
+false. in a standard bus layout, the right mirror would be on the right-hand side of the vehicle, which is to the right of the right front wheel.
+false. in a typical bus layout, the left back wheel is not to the left of the right front wheel. they are usually arranged in such a way that the wheels are positioned diagonally relative to each other, with the rear wheels being slightly behind and to the outside of the front wheels.
+false
+true
+true
+false. the port side of a sailboat is typically located on the left when facing the front (bow) of the boat. so, the cabin would be located either on the starboard side or in the middle of the boat, not on the port side.
+false. in a boat, the port side is left of the front (bow), and the starboard side is right of the front. the cabin, if positioned, would typically be on one of these sides, but it wouldn't necessarily be on the right side of the port side.
+true
+false
+false. the left headlight is to the left of the right mirror in a typical car layout.
+false. in the arrangement of components listed, the 'nose' is located on the 'face' which is part of the 'torso', and it is positioned below both the 'left leg' and 'right leg'.
+true
+true
+false. in a typical truck layout, the trunk (or cargo area) is located at the rear of the vehicle, while the left front wheel is towards the front and slightly to the left side.
+false
+false
+false
+true
+true
+false
+false
+true. in a typical biped, the 'left leg' is located higher than the 'mouth'.
+true
+false. in a ship, the starboard side (right side) is to the right of the stern when facing forward (bow is ahead). the cabin can be located on either the port side (left) or the starboard side.
+false. in a tree, roots are below the ground while the trunk stands upright above it, followed by branches and then leaves.
+false
+false
+true
+true
+false
+true
+true
+false
+false. in an elm tree, the trunk (or main stem) is connected to the branches. branches grow directly out of the trunk or from larger branches.
+false
+true
+false. in a typical car configuration, the driver seat and the steering wheel (including the left front wheel) are located in the same horizontal plane, with the driver seated slightly forward of the steering wheel. the left front wheel, however, is positioned significantly lower than the driver seat.
+true. the chassis of a truck is structurally connected to all four wheels including the left and right front wheels. this connection allows for proper steering and movement.
+true
+false
+true
+false. in an oak tree, the roots are below the ground and the branches extend upward from the trunk. so, 'roots' are not above 'branches'.
+false. the chassis in a truck is the primary structural component supporting the vehicle's body and other components. it does not connect directly to any wheels, including the right back wheel. instead, each wheel is connected to the chassis through its respective suspension system.
+true
+false
+false. the arrangement in a typical truck has the driver seat located at a position lower than the wheels. so, the right back wheel is not above the driver seat.
+true
+true
+false. in a typical bus layout, the chassis is below the wheels, supporting them and providing the base structure for the rest of the vehicle. the right front wheel is positioned higher on the chassis.
+true
+true
+true
+false. in an elm tree, roots are typically located at the bottom and grow underground, while branches grow upward from the trunk. so, 'branches' are not positioned below 'roots'.
+false
+false. the arrangement in a typical bench would be: (from bottom to top) left front leg, right front leg, seat, backrest, left back leg, right back leg. so the seat is not above the right back leg.
+false. in a typical truck, the left back wheel is not ahead of the left front wheel. the wheels are arranged such that the left front wheel is at the most forward position, followed by the right front wheel, then the left mirror, and so on, down the chassis to the rear wheels (left and right).
+false
+true
+true
+true
+false. the 'port side' refers to the left side of a ship when facing its front (bow). so, the 'cabin' is typically located on either the starboard side (right) or in the middle (midship), not the port side.
+true
+false
+true
+true
+true. in a typical humanoid or human body, the torso (which includes the chest and abdomen) is generally positioned to the right of the left arm when facing forward.
+false. the windshield of a bus is positioned at the front of the vehicle, above the driver seat and in front of both the left and right headlights.
+true
+true
+true. in a typical biped, the left leg is connected to the torso.
+true
+false
+false. in a humanoid, as typically understood, the left ear is part of the head, which sits atop the torso, not below it.
+true
+false
+false
+true
+true
+true

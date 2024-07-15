@@ -1,0 +1,1 @@
+prologue = "I will ask you a question about common physical objects. Assume typical, everyday versions of these objects. Please answer the question with only 'true' or 'false', based on your general knowledge."

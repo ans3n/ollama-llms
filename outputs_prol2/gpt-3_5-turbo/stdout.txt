@@ -1,0 +1,6 @@
+Model: gpt-3.5-turbo.
+CPU only: False.
+DS size: 100.
+Accuracy: 0.70.
+Average time per question: 0.35 seconds.
+Wrong format responses: 0 (0.00%).

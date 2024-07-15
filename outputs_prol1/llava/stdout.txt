@@ -1,0 +1,6 @@
+Model: llava.
+CPU only: False.
+DS size: 100.
+Accuracy: 0.56.
+Average time per question: 10.90 seconds.
+Wrong format responses: 4 (4.00%).

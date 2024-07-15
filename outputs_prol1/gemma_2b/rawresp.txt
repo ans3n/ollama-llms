@@ -1,0 +1,100 @@
+true.    the trunk is a main stem of a tree that connects the roots to the branches.
+true.    the tabletop is below the left back leg in a typical dinner table setup.
+false.    the tabletop is a flat surface, and the left front leg is a part of the left front side of a chair.
+false.    in an elm, the leaves are directly connected to the branches.
+true.    in an oak tree, the roots are below the trunk.
+false.    the branches are part of the branches, which are part of the trunk.
+false.    the question is about the relative positions of two legs, and 'left back leg' is not mentioned in that context.
+false.    in a sailboat, the bow is the front part of the boat, while the cabin is located at the back.
+false.    in an oak, the trunk is above the branches.
+true.    the roots are below the trunk in a maple tree.
+true.    the sail is located above the rudder in a boat.
+true.    the right back leg is located behind the tabletop in the dinner table setup.
+true.    the roots are below the branches in a tree.
+false.    right front wheel is not left of left front wheel in a bus.
+the answer is false.    the question is about the relative positions of the left leg and right ear in a man's body. the passage does not provide any information about the relative positions of these two objects.
+false.    the left arm is on the left side of the body, while the right eye is on the right side.
+false.    the 'cabin' is located on the lower deck of a ship, while the 'starboard side' is the side of a ship that is facing the stern.
+false.    right leg is on the right side of the body, while left arm is on the left side.
+true.    in an oak, the roots are connected to the trunk.
+true.    the left back leg is located on the left side of the table, while the right back leg is located on the right side.
+true.    the left headlight is located ahead of the left mirror in a car's interior.
+false.    the right mirror is located on the right side of the vehicle, while the right front wheel is located on the front of the vehicle.
+false.    the left back wheel is located on the left side of the bus, while the right front wheel is located on the right side.
+true.    the branches are part of the trunk of the maple tree.
+true.    in a tree, the trunk is below the roots.
+false.    the left headlight is connected to the left headlight housing.
+true.    the cabin is located on the left side of the sailboat, and the port side is the side of the boat facing the sea.
+true.    the cabin is located on the port side of the boat, which is the side that faces the entrance to the port.
+false    the seat is connected to the left front leg.
+true.    the right front leg is above the backrest in a bench.
+true.    the left headlight is located on the left side of the vehicle, while the right mirror is located on the right side.
+the question is false. the nose is located above the right leg in a human body.
+true.    the rudder is a component of the sailboat's cabin, located behind the mast and bow.
+false.    the table describes the components of a table, which do not include a right front leg connected to a right back leg.
+the answer is false.    the left front wheel is located in the front of the truck, while the trunk is located in the back.
+true.    the left front leg is positioned behind the left back leg in the bench setup.
+false.    the seat is connected to the backrest, not the left front leg.
+true.    the backrest is a component of the back rest, which is ahead of the right front leg.
+false.    the roots are below the branches, not the trunk.
+false.    the driver seat is located in the front of the car, while the left headlight is located on the left side of the car.
+true.    the 'left back leg' is a component of the chair and is connected to the 'seat'.
+false.    the question is asking about the relative position of two objects on a man's body. the left foot is not below the right ear in this context.
+false.    the left leg is located below the mouth.
+false.    the chassis is a frame that connects the engine, transmission, suspension, and body of a vehicle. the right back wheel is a component of the vehicle's suspension, and is not connected to the chassis.
+false.    the 'cabin' is located on the port side of a ship, while the 'starboard side' refers to the side of the ship facing away from the bow.
+true.    the roots are part of the trunk in a tree.
+false.    the right front leg is located on the right side of the body, while the tabletop is located on the left side.
+true.    the backrest is a component of the seat, which is above the right back leg.
+false.    in a maple, branches are connected to leaves, and are part of the same structure that produces leaves.
+false.    the term "right foot" refers to a part of a person's body, while "nose" is a part of a face.
+true.    the backrest is a component of the chair that is positioned ahead of the left front leg.
+true.    the right mirror is located on the right side of the vehicle, and the right headlight is located on the right side of the vehicle.
+false.    in the dining table, the right back leg is connected to the left back leg.
+true.    the right front leg is a part of the chair, and the seat is a part of the chair.
+false.    in an elm, the trunk is connected to the branches.
+false.    the left back leg and the left front leg are separate components located on opposite sides of the table.
+false.    the trunk is above the roots in an oak.
+false.    the driver seat is above the left front wheel in a car.
+true.    the chassis is a frame that supports the engine, transmission, and other components of a vehicle. the left front wheel is a component of the chassis that is connected to the chassis at the front.
+false.    roots are below the trunk in a tree, not above it.
+true.    the backrest is located below the seat in a chair.
+false    the components listed are all components of a table, not a leg.
+false.    the roots are below the branches in an oak.
+true.    the chassis is a structural frame that connects the other components of a vehicle, including the engine, transmission, and body. the right back wheel is a component of the vehicle's chassis.
+false.    the term "left front leg" is not ahead of the term "left back leg" in a typical chair.
+true.    the tabletop is below the left front leg in a typical nightstand setup.
+false.    right back wheel is not above the driver seat in a truck.
+false.    right headlight is located on the front of the vehicle, while the driver seat is located in the front of the vehicle.
+false.    the sail is located above the rudder in a boat.
+true.    the chassis forms the foundation of the bus, which includes the left and right front and back wheels, mirrors, headlights, and other components mounted on it.
+true.    the question is asking if 'right back leg' is behind 'right front leg' in a chair.
+false.    in an elm, the trunk is connected to the roots.
+true.    in a maple, the 'roots' are below the 'branches'.
+false.    in an elm, 'branches' and 'roots' are two separate components that are located at different levels of the tree.
+true.    the backrest is a component of the seat, and it is below the seat.
+true.    the seat is above the right back leg in a bench.
+true.    the left back wheel is located ahead of the left front wheel in a truck.
+false.    branches are part of the trunk, which is a part of the roots.
+false.    the right front leg is a part of the chair and is connected to the seat.
+false.    the rudder is located behind the sail, not in front.
+true.    the trunk is a part of the trunk, which is a part of the roots.
+true.    the cabin is typically located on the port side of a ship, as it is the area where the crew and passengers reside.
+false.    the right eye is below the left eye in a man's face.
+false.    right headlight is a component of a car's front headlight assembly, while left mirror is a component of a car's side mirror assembly.
+true.    the right back leg is located behind the right front leg in a chair.
+true.    in an elm tree, the 'roots' are considered below the 'trunk'.
+false.    the torso is the central part of the body, while the left arm is a part of the body on the left side.
+false.    the windshield is located behind the front headlight, not the left headlight.
+true.    the tabletop is placed on the left front and back legs. the right back leg is higher than the left back leg, so it is above the tabletop.
+false.    the left front leg is connected to the left back leg.
+true.    the left leg is a limb of the body that is connected to the torso.
+false    the left back leg is connected to the left front leg.
+true.    the right front leg is a part of the right back leg in a nightstand.
+true.    the left ear is located below the torso in the human body.
+false    the seat is connected to the left back leg, as it is a part of it.
+false.    the backrest, seat, left front leg, left back leg, right front leg, and right back leg are all components of a bench, while the left front leg is not.
+false.    the trunk is a part of the trunk, which is a branch of the elm tree.
+true.    the trunk is a part of the trunk, which is a part of the roots.
+true.    the trunk is a part of the trunk, which is a part of the roots.
+true.    the 'seat' is a component of the 'backrest'.

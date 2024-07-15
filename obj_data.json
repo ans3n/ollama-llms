@@ -1,0 +1,2248 @@
+[
+    {
+        "object_id": "dinner_table",
+        "alias": [
+            "table",
+            "dinner table",
+            "desk",
+            "nightstand"
+        ],
+        "nodes": [
+            "tabletop",
+            "left front leg",
+            "left back leg",
+            "right front leg",
+            "right back leg"
+        ],
+        "edges": [
+            {
+                "source": "tabletop",
+                "target": "left front leg",
+                "relationship": "above"
+            },
+            {
+                "source": "tabletop",
+                "target": "left back leg",
+                "relationship": "above"
+            },
+            {
+                "source": "tabletop",
+                "target": "right front leg",
+                "relationship": "above"
+            },
+            {
+                "source": "tabletop",
+                "target": "right back leg",
+                "relationship": "above"
+            },
+            {
+                "source": "left front leg",
+                "target": "right front leg",
+                "relationship": "left of"
+            },
+            {
+                "source": "left back leg",
+                "target": "right back leg",
+                "relationship": "left of"
+            },
+            {
+                "source": "left front leg",
+                "target": "left back leg",
+                "relationship": "ahead"
+            },
+            {
+                "source": "right front leg",
+                "target": "right back leg",
+                "relationship": "ahead"
+            },
+            {
+                "source": "left front leg",
+                "target": "right front leg",
+                "relationship": "connected"
+            },
+            {
+                "source": "left back leg",
+                "target": "right back leg",
+                "relationship": "connected"
+            },
+            {
+                "source": "left front leg",
+                "target": "left back leg",
+                "relationship": "connected"
+            },
+            {
+                "source": "right front leg",
+                "target": "right back leg",
+                "relationship": "connected"
+            },
+            {
+                "source": "left front leg",
+                "target": "tabletop",
+                "relationship": "below"
+            },
+            {
+                "source": "left back leg",
+                "target": "tabletop",
+                "relationship": "below"
+            },
+            {
+                "source": "right front leg",
+                "target": "tabletop",
+                "relationship": "below"
+            },
+            {
+                "source": "right back leg",
+                "target": "tabletop",
+                "relationship": "below"
+            },
+            {
+                "source": "right front leg",
+                "target": "left front leg",
+                "relationship": "right of"
+            },
+            {
+                "source": "right back leg",
+                "target": "left back leg",
+                "relationship": "right of"
+            },
+            {
+                "source": "left back leg",
+                "target": "left front leg",
+                "relationship": "behind"
+            },
+            {
+                "source": "right back leg",
+                "target": "right front leg",
+                "relationship": "behind"
+            },
+            {
+                "source": "right front leg",
+                "target": "left front leg",
+                "relationship": "connected"
+            },
+            {
+                "source": "right back leg",
+                "target": "left back leg",
+                "relationship": "connected"
+            },
+            {
+                "source": "left back leg",
+                "target": "left front leg",
+                "relationship": "connected"
+            },
+            {
+                "source": "right back leg",
+                "target": "right front leg",
+                "relationship": "connected"
+            }
+        ]
+    },
+    {
+        "object_id": "chair",
+        "alias": [
+            "chair",
+            "bench"
+        ],
+        "nodes": [
+            "backrest",
+            "seat",
+            "left front leg",
+            "left back leg",
+            "right front leg",
+            "right back leg"
+        ],
+        "edges": [
+            {
+                "source": "seat",
+                "target": "backrest",
+                "relationship": "below"
+            },
+            {
+                "source": "seat",
+                "target": "left front leg",
+                "relationship": "above"
+            },
+            {
+                "source": "seat",
+                "target": "left back leg",
+                "relationship": "above"
+            },
+            {
+                "source": "seat",
+                "target": "right front leg",
+                "relationship": "above"
+            },
+            {
+                "source": "seat",
+                "target": "right back leg",
+                "relationship": "above"
+            },
+            {
+                "source": "left front leg",
+                "target": "right front leg",
+                "relationship": "left of"
+            },
+            {
+                "source": "left back leg",
+                "target": "right back leg",
+                "relationship": "left of"
+            },
+            {
+                "source": "left front leg",
+                "target": "left back leg",
+                "relationship": "ahead"
+            },
+            {
+                "source": "right front leg",
+                "target": "right back leg",
+                "relationship": "ahead"
+            },
+            {
+                "source": "right front leg",
+                "target": "left front leg",
+                "relationship": "right of"
+            },
+            {
+                "source": "right back leg",
+                "target": "left back leg",
+                "relationship": "right of"
+            },
+            {
+                "source": "left back leg",
+                "target": "left front leg",
+                "relationship": "behind"
+            },
+            {
+                "source": "right back leg",
+                "target": "right front leg",
+                "relationship": "behind"
+            },
+            {
+                "source": "backrest",
+                "target": "left front leg",
+                "relationship": "behind"
+            },
+            {
+                "source": "backrest",
+                "target": "right front leg",
+                "relationship": "behind"
+            },
+            {
+                "source": "seat",
+                "target": "backrest",
+                "relationship": "connected"
+            },
+            {
+                "source": "seat",
+                "target": "left front leg",
+                "relationship": "connected"
+            },
+            {
+                "source": "seat",
+                "target": "left back leg",
+                "relationship": "connected"
+            },
+            {
+                "source": "seat",
+                "target": "right front leg",
+                "relationship": "connected"
+            },
+            {
+                "source": "seat",
+                "target": "right back leg",
+                "relationship": "connected"
+            },
+            {
+                "source": "backrest",
+                "target": "seat",
+                "relationship": "above"
+            },
+            {
+                "source": "left front leg",
+                "target": "seat",
+                "relationship": "below"
+            },
+            {
+                "source": "left back leg",
+                "target": "seat",
+                "relationship": "below"
+            },
+            {
+                "source": "right front leg",
+                "target": "seat",
+                "relationship": "below"
+            },
+            {
+                "source": "right back leg",
+                "target": "seat",
+                "relationship": "below"
+            },
+            {
+                "source": "left front leg",
+                "target": "backrest",
+                "relationship": "ahead"
+            },
+            {
+                "source": "right front leg",
+                "target": "backrest",
+                "relationship": "ahead"
+            },
+            {
+                "source": "backrest",
+                "target": "left back leg",
+                "relationship": "above"
+            },
+            {
+                "source": "backrest",
+                "target": "right front leg",
+                "relationship": "above"
+            },
+            {
+                "source": "backrest",
+                "target": "right back leg",
+                "relationship": "above"
+            },
+            {
+                "source": "backrest",
+                "target": "left front leg",
+                "relationship": "above"
+            },
+            {
+                "source": "left front leg",
+                "target": "backrest",
+                "relationship": "below"
+            },
+            {
+                "source": "left back leg",
+                "target": "backrest",
+                "relationship": "below"
+            },
+            {
+                "source": "right front leg",
+                "target": "backrest",
+                "relationship": "below"
+            },
+            {
+                "source": "right back leg",
+                "target": "backrest",
+                "relationship": "below"
+            },
+            {
+                "source": "backrest",
+                "target": "seat",
+                "relationship": "connected"
+            },
+            {
+                "source": "left front leg",
+                "target": "seat",
+                "relationship": "connected"
+            },
+            {
+                "source": "left back leg",
+                "target": "seat",
+                "relationship": "connected"
+            },
+            {
+                "source": "right front leg",
+                "target": "seat",
+                "relationship": "connected"
+            },
+            {
+                "source": "right back leg",
+                "target": "seat",
+                "relationship": "connected"
+            }
+        ]
+    },
+    {
+        "object_id": "car",
+        "alias": [
+            "car",
+            "bus",
+            "truck"
+        ],
+        "nodes": [
+            "chassis",
+            "left front wheel",
+            "right front wheel",
+            "left back wheel",
+            "right back wheel",
+            "left mirror",
+            "right mirror",
+            "left headlight",
+            "right headlight",
+            "driver seat",
+            "trunk",
+            "windshield"
+        ],
+        "edges": [
+            {
+                "source": "chassis",
+                "target": "left front wheel",
+                "relationship": "above"
+            },
+            {
+                "source": "chassis",
+                "target": "right front wheel",
+                "relationship": "above"
+            },
+            {
+                "source": "chassis",
+                "target": "left back wheel",
+                "relationship": "above"
+            },
+            {
+                "source": "chassis",
+                "target": "right back wheel",
+                "relationship": "above"
+            },
+            {
+                "source": "chassis",
+                "target": "left mirror",
+                "relationship": "connected"
+            },
+            {
+                "source": "chassis",
+                "target": "right mirror",
+                "relationship": "connected"
+            },
+            {
+                "source": "chassis",
+                "target": "left headlight",
+                "relationship": "connected"
+            },
+            {
+                "source": "chassis",
+                "target": "right headlight",
+                "relationship": "connected"
+            },
+            {
+                "source": "left front wheel",
+                "target": "right front wheel",
+                "relationship": "left of"
+            },
+            {
+                "source": "left back wheel",
+                "target": "right back wheel",
+                "relationship": "left of"
+            },
+            {
+                "source": "left front wheel",
+                "target": "left back wheel",
+                "relationship": "ahead"
+            },
+            {
+                "source": "right front wheel",
+                "target": "right back wheel",
+                "relationship": "ahead"
+            },
+            {
+                "source": "left mirror",
+                "target": "left headlight",
+                "relationship": "behind"
+            },
+            {
+                "source": "right mirror",
+                "target": "right headlight",
+                "relationship": "behind"
+            },
+            {
+                "source": "left mirror",
+                "target": "right mirror",
+                "relationship": "left of"
+            },
+            {
+                "source": "left headlight",
+                "target": "right headlight",
+                "relationship": "left of"
+            },
+            {
+                "source": "left front wheel",
+                "target": "chassis",
+                "relationship": "connected"
+            },
+            {
+                "source": "right front wheel",
+                "target": "chassis",
+                "relationship": "connected"
+            },
+            {
+                "source": "left back wheel",
+                "target": "chassis",
+                "relationship": "connected"
+            },
+            {
+                "source": "right back wheel",
+                "target": "chassis",
+                "relationship": "connected"
+            },
+            {
+                "source": "left front wheel",
+                "target": "right back wheel",
+                "relationship": "left of"
+            },
+            {
+                "source": "left back wheel",
+                "target": "right front wheel",
+                "relationship": "left of"
+            },
+            {
+                "source": "left mirror",
+                "target": "right headlight",
+                "relationship": "left of"
+            },
+            {
+                "source": "left headlight",
+                "target": "right mirror",
+                "relationship": "left of"
+            },
+            {
+                "source": "left mirror",
+                "target": "left front wheel",
+                "relationship": "left of"
+            },
+            {
+                "source": "left mirror",
+                "target": "left back wheel",
+                "relationship": "left of"
+            },
+            {
+                "source": "left mirror",
+                "target": "left headlight",
+                "relationship": "left of"
+            },
+            {
+                "source": "right mirror",
+                "target": "right front wheel",
+                "relationship": "right of"
+            },
+            {
+                "source": "right mirror",
+                "target": "right back wheel",
+                "relationship": "right of"
+            },
+            {
+                "source": "right mirror",
+                "target": "right headlight",
+                "relationship": "right of"
+            },
+            {
+                "source": "left headlight",
+                "target": "left mirror",
+                "relationship": "ahead"
+            },
+            {
+                "source": "right headlight",
+                "target": "right mirror",
+                "relationship": "ahead"
+            },
+            {
+                "source": "left headlight",
+                "target": "right mirror",
+                "relationship": "ahead"
+            },
+            {
+                "source": "right headlight",
+                "target": "left mirror",
+                "relationship": "ahead"
+            },
+            {
+                "source": "driver seat",
+                "target": "left front wheel",
+                "relationship": "above"
+            },
+            {
+                "source": "driver seat",
+                "target": "right front wheel",
+                "relationship": "above"
+            },
+            {
+                "source": "driver seat",
+                "target": "left back wheel",
+                "relationship": "above"
+            },
+            {
+                "source": "driver seat",
+                "target": "right back wheel",
+                "relationship": "above"
+            },
+            {
+                "source": "driver seat",
+                "target": "trunk",
+                "relationship": "ahead"
+            },
+            {
+                "source": "trunk",
+                "target": "left front wheel",
+                "relationship": "above"
+            },
+            {
+                "source": "trunk",
+                "target": "right front wheel",
+                "relationship": "above"
+            },
+            {
+                "source": "trunk",
+                "target": "left back wheel",
+                "relationship": "above"
+            },
+            {
+                "source": "trunk",
+                "target": "right back wheel",
+                "relationship": "above"
+            },
+            {
+                "source": "windshield",
+                "target": "left front wheel",
+                "relationship": "above"
+            },
+            {
+                "source": "windshield",
+                "target": "right front wheel",
+                "relationship": "above"
+            },
+            {
+                "source": "windshield",
+                "target": "left back wheel",
+                "relationship": "above"
+            },
+            {
+                "source": "windshield",
+                "target": "right back wheel",
+                "relationship": "above"
+            },
+            {
+                "source": "driver seat",
+                "target": "windshield",
+                "relationship": "behind"
+            },
+            {
+                "source": "trunk",
+                "target": "windshield",
+                "relationship": "behind"
+            },
+            {
+                "source": "left headlight",
+                "target": "driver seat",
+                "relationship": "ahead"
+            },
+            {
+                "source": "left headlight",
+                "target": "trunk",
+                "relationship": "ahead"
+            },
+            {
+                "source": "right headlight",
+                "target": "driver seat",
+                "relationship": "ahead"
+            },
+            {
+                "source": "right headlight",
+                "target": "trunk",
+                "relationship": "ahead"
+            },
+            {
+                "source": "left headlight",
+                "target": "windshield",
+                "relationship": "ahead"
+            },
+            {
+                "source": "right headlight",
+                "target": "windshield",
+                "relationship": "ahead"
+            },
+            {
+                "source": "windshield",
+                "target": "driver seat",
+                "relationship": "ahead"
+            },
+            {
+                "source": "windshield",
+                "target": "trunk",
+                "relationship": "ahead"
+            },
+            {
+                "source": "left mirror",
+                "target": "right back wheel",
+                "relationship": "left of"
+            },
+            {
+                "source": "left mirror",
+                "target": "right front wheel",
+                "relationship": "left of"
+            },
+            {
+                "source": "left front wheel",
+                "target": "chassis",
+                "relationship": "below"
+            },
+            {
+                "source": "right front wheel",
+                "target": "chassis",
+                "relationship": "below"
+            },
+            {
+                "source": "left back wheel",
+                "target": "chassis",
+                "relationship": "below"
+            },
+            {
+                "source": "right back wheel",
+                "target": "chassis",
+                "relationship": "below"
+            },
+            {
+                "source": "right front wheel",
+                "target": "left front wheel",
+                "relationship": "right of"
+            },
+            {
+                "source": "right back wheel",
+                "target": "left back wheel",
+                "relationship": "right of"
+            },
+            {
+                "source": "left back wheel",
+                "target": "left front wheel",
+                "relationship": "behind"
+            },
+            {
+                "source": "right back wheel",
+                "target": "right front wheel",
+                "relationship": "behind"
+            },
+            {
+                "source": "right mirror",
+                "target": "left mirror",
+                "relationship": "right of"
+            },
+            {
+                "source": "right headlight",
+                "target": "left headlight",
+                "relationship": "right of"
+            },
+            {
+                "source": "right back wheel",
+                "target": "left front wheel",
+                "relationship": "right of"
+            },
+            {
+                "source": "right front wheel",
+                "target": "left back wheel",
+                "relationship": "right of"
+            },
+            {
+                "source": "right headlight",
+                "target": "left mirror",
+                "relationship": "right of"
+            },
+            {
+                "source": "right mirror",
+                "target": "left headlight",
+                "relationship": "right of"
+            },
+            {
+                "source": "left front wheel",
+                "target": "left mirror",
+                "relationship": "right of"
+            },
+            {
+                "source": "left back wheel",
+                "target": "left mirror",
+                "relationship": "right of"
+            },
+            {
+                "source": "left headlight",
+                "target": "left mirror",
+                "relationship": "right of"
+            },
+            {
+                "source": "right front wheel",
+                "target": "right mirror",
+                "relationship": "left of"
+            },
+            {
+                "source": "right back wheel",
+                "target": "right mirror",
+                "relationship": "left of"
+            },
+            {
+                "source": "right headlight",
+                "target": "right mirror",
+                "relationship": "left of"
+            },
+            {
+                "source": "right mirror",
+                "target": "left headlight",
+                "relationship": "behind"
+            },
+            {
+                "source": "left mirror",
+                "target": "right headlight",
+                "relationship": "behind"
+            },
+            {
+                "source": "left front wheel",
+                "target": "driver seat",
+                "relationship": "below"
+            },
+            {
+                "source": "right front wheel",
+                "target": "driver seat",
+                "relationship": "below"
+            },
+            {
+                "source": "left back wheel",
+                "target": "driver seat",
+                "relationship": "below"
+            },
+            {
+                "source": "right back wheel",
+                "target": "driver seat",
+                "relationship": "below"
+            },
+            {
+                "source": "trunk",
+                "target": "driver seat",
+                "relationship": "behind"
+            },
+            {
+                "source": "left front wheel",
+                "target": "trunk",
+                "relationship": "below"
+            },
+            {
+                "source": "right front wheel",
+                "target": "trunk",
+                "relationship": "below"
+            },
+            {
+                "source": "left back wheel",
+                "target": "trunk",
+                "relationship": "below"
+            },
+            {
+                "source": "right back wheel",
+                "target": "trunk",
+                "relationship": "below"
+            },
+            {
+                "source": "left front wheel",
+                "target": "windshield",
+                "relationship": "below"
+            },
+            {
+                "source": "right front wheel",
+                "target": "windshield",
+                "relationship": "below"
+            },
+            {
+                "source": "left back wheel",
+                "target": "windshield",
+                "relationship": "below"
+            },
+            {
+                "source": "right back wheel",
+                "target": "windshield",
+                "relationship": "below"
+            },
+            {
+                "source": "driver seat",
+                "target": "left headlight",
+                "relationship": "behind"
+            },
+            {
+                "source": "trunk",
+                "target": "left headlight",
+                "relationship": "behind"
+            },
+            {
+                "source": "driver seat",
+                "target": "right headlight",
+                "relationship": "behind"
+            },
+            {
+                "source": "trunk",
+                "target": "right headlight",
+                "relationship": "behind"
+            },
+            {
+                "source": "windshield",
+                "target": "left headlight",
+                "relationship": "behind"
+            },
+            {
+                "source": "windshield",
+                "target": "right headlight",
+                "relationship": "behind"
+            },
+            {
+                "source": "right back wheel",
+                "target": "left mirror",
+                "relationship": "right of"
+            },
+            {
+                "source": "right front wheel",
+                "target": "left mirror",
+                "relationship": "right of"
+            },
+            {
+                "source": "right mirror",
+                "target": "left back wheel",
+                "relationship": "right of"
+            },
+            {
+                "source": "right mirror",
+                "target": "left front wheel",
+                "relationship": "right of"
+            },
+            {
+                "source": "left front wheel",
+                "target": "right mirror",
+                "relationship": "left of"
+            },
+            {
+                "source": "left back wheel",
+                "target": "right mirror",
+                "relationship": "left of"
+            },
+            {
+                "source": "left mirror",
+                "target": "chassis",
+                "relationship": "connected"
+            },
+            {
+                "source": "right mirror",
+                "target": "chassis",
+                "relationship": "connected"
+            },
+            {
+                "source": "left headlight",
+                "target": "chassis",
+                "relationship": "connected"
+            },
+            {
+                "source": "right headlight",
+                "target": "chassis",
+                "relationship": "connected"
+            },
+            {
+                "source": "chassis",
+                "target": "left front wheel",
+                "relationship": "connected"
+            },
+            {
+                "source": "chassis",
+                "target": "right front wheel",
+                "relationship": "connected"
+            },
+            {
+                "source": "chassis",
+                "target": "left back wheel",
+                "relationship": "connected"
+            },
+            {
+                "source": "chassis",
+                "target": "right back wheel",
+                "relationship": "connected"
+            }
+        ]
+    },
+    {
+        "object_id": "sailboat",
+        "alias": [
+            "sailboat",
+            "boat",
+            "ship"
+        ],
+        "nodes": [
+            "sail",
+            "cabin",
+            "bow",
+            "stern",
+            "port side",
+            "starboard side",
+            "rudder"
+        ],
+        "edges": [
+            {
+                "source": "sail",
+                "target": "cabin",
+                "relationship": "above"
+            },
+            {
+                "source": "sail",
+                "target": "rudder",
+                "relationship": "above"
+            },
+            {
+                "source": "cabin",
+                "target": "bow",
+                "relationship": "behind"
+            },
+            {
+                "source": "cabin",
+                "target": "stern",
+                "relationship": "ahead"
+            },
+            {
+                "source": "cabin",
+                "target": "port side",
+                "relationship": "right of"
+            },
+            {
+                "source": "cabin",
+                "target": "starboard side",
+                "relationship": "left of"
+            },
+            {
+                "source": "bow",
+                "target": "stern",
+                "relationship": "ahead"
+            },
+            {
+                "source": "stern",
+                "target": "bow",
+                "relationship": "behind"
+            },
+            {
+                "source": "rudder",
+                "target": "bow",
+                "relationship": "behind"
+            },
+            {
+                "source": "rudder",
+                "target": "cabin",
+                "relationship": "behind"
+            },
+            {
+                "source": "rudder",
+                "target": "sail",
+                "relationship": "behind"
+            },
+            {
+                "source": "rudder",
+                "target": "stern",
+                "relationship": "connected"
+            },
+            {
+                "source": "cabin",
+                "target": "sail",
+                "relationship": "below"
+            },
+            {
+                "source": "rudder",
+                "target": "sail",
+                "relationship": "below"
+            },
+            {
+                "source": "bow",
+                "target": "cabin",
+                "relationship": "ahead"
+            },
+            {
+                "source": "stern",
+                "target": "cabin",
+                "relationship": "behind"
+            },
+            {
+                "source": "port side",
+                "target": "cabin",
+                "relationship": "left of"
+            },
+            {
+                "source": "starboard side",
+                "target": "cabin",
+                "relationship": "right of"
+            },
+            {
+                "source": "bow",
+                "target": "rudder",
+                "relationship": "ahead"
+            },
+            {
+                "source": "cabin",
+                "target": "rudder",
+                "relationship": "ahead"
+            },
+            {
+                "source": "sail",
+                "target": "rudder",
+                "relationship": "ahead"
+            },
+            {
+                "source": "starboard side",
+                "target": "port side",
+                "relationship": "right of"
+            },
+            {
+                "source": "port side",
+                "target": "starboard side",
+                "relationship": "left of"
+            },
+            {
+                "source": "stern",
+                "target": "rudder",
+                "relationship": "connected"
+            }
+        ]
+    },
+    {
+        "object_id": "tree",
+        "alias": [
+            "tree",
+            "oak",
+            "elm",
+            "maple"
+        ],
+        "nodes": [
+            "roots",
+            "trunk",
+            "branches",
+            "leaves"
+        ],
+        "edges": [
+            {
+                "source": "trunk",
+                "target": "roots",
+                "relationship": "above"
+            },
+            {
+                "source": "trunk",
+                "target": "roots",
+                "relationship": "connected"
+            },
+            {
+                "source": "branches",
+                "target": "trunk",
+                "relationship": "above"
+            },
+            {
+                "source": "branches",
+                "target": "trunk",
+                "relationship": "connected"
+            },
+            {
+                "source": "leaves",
+                "target": "branches",
+                "relationship": "connected"
+            },
+            {
+                "source": "roots",
+                "target": "trunk",
+                "relationship": "below"
+            },
+            {
+                "source": "trunk",
+                "target": "branches",
+                "relationship": "below"
+            },
+            {
+                "source": "branches",
+                "target": "roots",
+                "relationship": "above"
+            },
+            {
+                "source": "roots",
+                "target": "branches",
+                "relationship": "below"
+            },
+            {
+                "source": "roots",
+                "target": "trunk",
+                "relationship": "connected"
+            },
+            {
+                "source": "trunk",
+                "target": "branches",
+                "relationship": "connected"
+            },
+            {
+                "source": "branches",
+                "target": "leaves",
+                "relationship": "connected"
+            }
+        ]
+    },
+    {
+        "object_id": "human",
+        "alias": [
+            "human",
+            "humanoid",
+            "person",
+            "man",
+            "woman",
+            "biped"
+        ],
+        "nodes": [
+            "torso",
+            "head",
+            "left leg",
+            "right leg",
+            "left arm",
+            "right arm",
+            "left eye",
+            "right eye",
+            "mouth",
+            "nose",
+            "left ear",
+            "right ear",
+            "left hand",
+            "right hand",
+            "left foot",
+            "right foot"
+        ],
+        "edges": [
+            {
+                "source": "torso",
+                "target": "left leg",
+                "relationship": "connected"
+            },
+            {
+                "source": "torso",
+                "target": "right leg",
+                "relationship": "connected"
+            },
+            {
+                "source": "torso",
+                "target": "left arm",
+                "relationship": "connected"
+            },
+            {
+                "source": "torso",
+                "target": "right arm",
+                "relationship": "connected"
+            },
+            {
+                "source": "torso",
+                "target": "head",
+                "relationship": "connected"
+            },
+            {
+                "source": "left arm",
+                "target": "left hand",
+                "relationship": "connected"
+            },
+            {
+                "source": "right arm",
+                "target": "right hand",
+                "relationship": "connected"
+            },
+            {
+                "source": "left leg",
+                "target": "left foot",
+                "relationship": "connected"
+            },
+            {
+                "source": "right leg",
+                "target": "right foot",
+                "relationship": "connected"
+            },
+            {
+                "source": "head",
+                "target": "left eye",
+                "relationship": "connected"
+            },
+            {
+                "source": "head",
+                "target": "right eye",
+                "relationship": "connected"
+            },
+            {
+                "source": "head",
+                "target": "mouth",
+                "relationship": "connected"
+            },
+            {
+                "source": "head",
+                "target": "nose",
+                "relationship": "connected"
+            },
+            {
+                "source": "head",
+                "target": "left ear",
+                "relationship": "connected"
+            },
+            {
+                "source": "head",
+                "target": "right ear",
+                "relationship": "connected"
+            },
+            {
+                "source": "left foot",
+                "target": "left leg",
+                "relationship": "below"
+            },
+            {
+                "source": "right foot",
+                "target": "right leg",
+                "relationship": "below"
+            },
+            {
+                "source": "left leg",
+                "target": "torso",
+                "relationship": "below"
+            },
+            {
+                "source": "right leg",
+                "target": "torso",
+                "relationship": "below"
+            },
+            {
+                "source": "left leg",
+                "target": "left arm",
+                "relationship": "below"
+            },
+            {
+                "source": "right leg",
+                "target": "right arm",
+                "relationship": "below"
+            },
+            {
+                "source": "torso",
+                "target": "head",
+                "relationship": "below"
+            },
+            {
+                "source": "left arm",
+                "target": "head",
+                "relationship": "below"
+            },
+            {
+                "source": "right arm",
+                "target": "head",
+                "relationship": "below"
+            },
+            {
+                "source": "head",
+                "target": "torso",
+                "relationship": "above"
+            },
+            {
+                "source": "left eye",
+                "target": "torso",
+                "relationship": "above"
+            },
+            {
+                "source": "right eye",
+                "target": "torso",
+                "relationship": "above"
+            },
+            {
+                "source": "mouth",
+                "target": "torso",
+                "relationship": "above"
+            },
+            {
+                "source": "nose",
+                "target": "torso",
+                "relationship": "above"
+            },
+            {
+                "source": "left ear",
+                "target": "torso",
+                "relationship": "above"
+            },
+            {
+                "source": "right ear",
+                "target": "torso",
+                "relationship": "above"
+            },
+            {
+                "source": "head",
+                "target": "left arm",
+                "relationship": "above"
+            },
+            {
+                "source": "left eye",
+                "target": "left arm",
+                "relationship": "above"
+            },
+            {
+                "source": "right eye",
+                "target": "left arm",
+                "relationship": "above"
+            },
+            {
+                "source": "mouth",
+                "target": "left arm",
+                "relationship": "above"
+            },
+            {
+                "source": "nose",
+                "target": "left arm",
+                "relationship": "above"
+            },
+            {
+                "source": "left ear",
+                "target": "left arm",
+                "relationship": "above"
+            },
+            {
+                "source": "right ear",
+                "target": "left arm",
+                "relationship": "above"
+            },
+            {
+                "source": "head",
+                "target": "right arm",
+                "relationship": "above"
+            },
+            {
+                "source": "left eye",
+                "target": "right arm",
+                "relationship": "above"
+            },
+            {
+                "source": "right eye",
+                "target": "right arm",
+                "relationship": "above"
+            },
+            {
+                "source": "mouth",
+                "target": "right arm",
+                "relationship": "above"
+            },
+            {
+                "source": "nose",
+                "target": "right arm",
+                "relationship": "above"
+            },
+            {
+                "source": "left ear",
+                "target": "right arm",
+                "relationship": "above"
+            },
+            {
+                "source": "right ear",
+                "target": "right arm",
+                "relationship": "above"
+            },
+            {
+                "source": "left arm",
+                "target": "torso",
+                "relationship": "left of"
+            },
+            {
+                "source": "right arm",
+                "target": "torso",
+                "relationship": "right of"
+            },
+            {
+                "source": "left arm",
+                "target": "left leg",
+                "relationship": "left of"
+            },
+            {
+                "source": "right arm",
+                "target": "right leg",
+                "relationship": "right of"
+            },
+            {
+                "source": "left arm",
+                "target": "right leg",
+                "relationship": "left of"
+            },
+            {
+                "source": "right arm",
+                "target": "left leg",
+                "relationship": "right of"
+            },
+            {
+                "source": "left arm",
+                "target": "head",
+                "relationship": "left of"
+            },
+            {
+                "source": "right arm",
+                "target": "head",
+                "relationship": "right of"
+            },
+            {
+                "source": "left arm",
+                "target": "left eye",
+                "relationship": "left of"
+            },
+            {
+                "source": "right arm",
+                "target": "right eye",
+                "relationship": "right of"
+            },
+            {
+                "source": "left arm",
+                "target": "right eye",
+                "relationship": "left of"
+            },
+            {
+                "source": "right arm",
+                "target": "left eye",
+                "relationship": "right of"
+            },
+            {
+                "source": "left arm",
+                "target": "nose",
+                "relationship": "left of"
+            },
+            {
+                "source": "right arm",
+                "target": "nose",
+                "relationship": "right of"
+            },
+            {
+                "source": "left arm",
+                "target": "mouth",
+                "relationship": "left of"
+            },
+            {
+                "source": "right arm",
+                "target": "mouth",
+                "relationship": "right of"
+            },
+            {
+                "source": "mouth",
+                "target": "nose",
+                "relationship": "below"
+            },
+            {
+                "source": "left eye",
+                "target": "nose",
+                "relationship": "above"
+            },
+            {
+                "source": "right eye",
+                "target": "nose",
+                "relationship": "above"
+            },
+            {
+                "source": "left eye",
+                "target": "nose",
+                "relationship": "left of"
+            },
+            {
+                "source": "right eye",
+                "target": "nose",
+                "relationship": "right of"
+            },
+            {
+                "source": "left ear",
+                "target": "mouth",
+                "relationship": "behind"
+            },
+            {
+                "source": "right ear",
+                "target": "mouth",
+                "relationship": "behind"
+            },
+            {
+                "source": "left ear",
+                "target": "nose",
+                "relationship": "behind"
+            },
+            {
+                "source": "right ear",
+                "target": "nose",
+                "relationship": "behind"
+            },
+            {
+                "source": "left ear",
+                "target": "left eye",
+                "relationship": "behind"
+            },
+            {
+                "source": "right ear",
+                "target": "right eye",
+                "relationship": "behind"
+            },
+            {
+                "source": "left foot",
+                "target": "torso",
+                "relationship": "below"
+            },
+            {
+                "source": "left foot",
+                "target": "left arm",
+                "relationship": "below"
+            },
+            {
+                "source": "right foot",
+                "target": "torso",
+                "relationship": "below"
+            },
+            {
+                "source": "right foot",
+                "target": "right arm",
+                "relationship": "below"
+            },
+            {
+                "source": "left leg",
+                "target": "head",
+                "relationship": "below"
+            },
+            {
+                "source": "right leg",
+                "target": "head",
+                "relationship": "below"
+            },
+            {
+                "source": "left leg",
+                "target": "left foot",
+                "relationship": "above"
+            },
+            {
+                "source": "right leg",
+                "target": "right foot",
+                "relationship": "above"
+            },
+            {
+                "source": "torso",
+                "target": "left leg",
+                "relationship": "above"
+            },
+            {
+                "source": "torso",
+                "target": "right leg",
+                "relationship": "above"
+            },
+            {
+                "source": "left arm",
+                "target": "left leg",
+                "relationship": "above"
+            },
+            {
+                "source": "right arm",
+                "target": "right leg",
+                "relationship": "above"
+            },
+            {
+                "source": "torso",
+                "target": "left eye",
+                "relationship": "below"
+            },
+            {
+                "source": "torso",
+                "target": "right eye",
+                "relationship": "below"
+            },
+            {
+                "source": "torso",
+                "target": "mouth",
+                "relationship": "below"
+            },
+            {
+                "source": "torso",
+                "target": "nose",
+                "relationship": "below"
+            },
+            {
+                "source": "torso",
+                "target": "left ear",
+                "relationship": "below"
+            },
+            {
+                "source": "torso",
+                "target": "right ear",
+                "relationship": "below"
+            },
+            {
+                "source": "left arm",
+                "target": "left eye",
+                "relationship": "below"
+            },
+            {
+                "source": "left arm",
+                "target": "right eye",
+                "relationship": "below"
+            },
+            {
+                "source": "left arm",
+                "target": "mouth",
+                "relationship": "below"
+            },
+            {
+                "source": "left arm",
+                "target": "nose",
+                "relationship": "below"
+            },
+            {
+                "source": "left arm",
+                "target": "left ear",
+                "relationship": "below"
+            },
+            {
+                "source": "left arm",
+                "target": "right ear",
+                "relationship": "below"
+            },
+            {
+                "source": "right arm",
+                "target": "left eye",
+                "relationship": "below"
+            },
+            {
+                "source": "right arm",
+                "target": "right eye",
+                "relationship": "below"
+            },
+            {
+                "source": "right arm",
+                "target": "mouth",
+                "relationship": "below"
+            },
+            {
+                "source": "right arm",
+                "target": "nose",
+                "relationship": "below"
+            },
+            {
+                "source": "right arm",
+                "target": "left ear",
+                "relationship": "below"
+            },
+            {
+                "source": "right arm",
+                "target": "right ear",
+                "relationship": "below"
+            },
+            {
+                "source": "torso",
+                "target": "left arm",
+                "relationship": "right of"
+            },
+            {
+                "source": "torso",
+                "target": "right arm",
+                "relationship": "left of"
+            },
+            {
+                "source": "left leg",
+                "target": "left arm",
+                "relationship": "right of"
+            },
+            {
+                "source": "right leg",
+                "target": "right arm",
+                "relationship": "left of"
+            },
+            {
+                "source": "right leg",
+                "target": "left arm",
+                "relationship": "right of"
+            },
+            {
+                "source": "left leg",
+                "target": "right arm",
+                "relationship": "left of"
+            },
+            {
+                "source": "head",
+                "target": "left arm",
+                "relationship": "right of"
+            },
+            {
+                "source": "head",
+                "target": "right arm",
+                "relationship": "left of"
+            },
+            {
+                "source": "left eye",
+                "target": "left arm",
+                "relationship": "right of"
+            },
+            {
+                "source": "right eye",
+                "target": "right arm",
+                "relationship": "left of"
+            },
+            {
+                "source": "right eye",
+                "target": "left arm",
+                "relationship": "right of"
+            },
+            {
+                "source": "left eye",
+                "target": "right arm",
+                "relationship": "left of"
+            },
+            {
+                "source": "nose",
+                "target": "left arm",
+                "relationship": "right of"
+            },
+            {
+                "source": "nose",
+                "target": "right arm",
+                "relationship": "left of"
+            },
+            {
+                "source": "mouth",
+                "target": "left arm",
+                "relationship": "right of"
+            },
+            {
+                "source": "mouth",
+                "target": "right arm",
+                "relationship": "left of"
+            },
+            {
+                "source": "nose",
+                "target": "mouth",
+                "relationship": "above"
+            },
+            {
+                "source": "nose",
+                "target": "left eye",
+                "relationship": "below"
+            },
+            {
+                "source": "nose",
+                "target": "right eye",
+                "relationship": "below"
+            },
+            {
+                "source": "nose",
+                "target": "left eye",
+                "relationship": "right of"
+            },
+            {
+                "source": "nose",
+                "target": "right eye",
+                "relationship": "left of"
+            },
+            {
+                "source": "mouth",
+                "target": "left ear",
+                "relationship": "ahead"
+            },
+            {
+                "source": "mouth",
+                "target": "right ear",
+                "relationship": "ahead"
+            },
+            {
+                "source": "nose",
+                "target": "left ear",
+                "relationship": "ahead"
+            },
+            {
+                "source": "nose",
+                "target": "right ear",
+                "relationship": "ahead"
+            },
+            {
+                "source": "left eye",
+                "target": "left ear",
+                "relationship": "ahead"
+            },
+            {
+                "source": "right eye",
+                "target": "right ear",
+                "relationship": "ahead"
+            },
+            {
+                "source": "torso",
+                "target": "left foot",
+                "relationship": "above"
+            },
+            {
+                "source": "left arm",
+                "target": "left foot",
+                "relationship": "above"
+            },
+            {
+                "source": "torso",
+                "target": "right foot",
+                "relationship": "above"
+            },
+            {
+                "source": "right arm",
+                "target": "right foot",
+                "relationship": "above"
+            },
+            {
+                "source": "head",
+                "target": "left leg",
+                "relationship": "above"
+            },
+            {
+                "source": "head",
+                "target": "right leg",
+                "relationship": "above"
+            },
+            {
+                "source": "head",
+                "target": "right foot",
+                "relationship": "above"
+            },
+            {
+                "source": "head",
+                "target": "left foot",
+                "relationship": "above"
+            },
+            {
+                "source": "left eye",
+                "target": "mouth",
+                "relationship": "above"
+            },
+            {
+                "source": "left eye",
+                "target": "left foot",
+                "relationship": "above"
+            },
+            {
+                "source": "left eye",
+                "target": "right leg",
+                "relationship": "above"
+            },
+            {
+                "source": "left eye",
+                "target": "right foot",
+                "relationship": "above"
+            },
+            {
+                "source": "left eye",
+                "target": "left leg",
+                "relationship": "above"
+            },
+            {
+                "source": "right eye",
+                "target": "mouth",
+                "relationship": "above"
+            },
+            {
+                "source": "right eye",
+                "target": "left foot",
+                "relationship": "above"
+            },
+            {
+                "source": "right eye",
+                "target": "right leg",
+                "relationship": "above"
+            },
+            {
+                "source": "right eye",
+                "target": "right foot",
+                "relationship": "above"
+            },
+            {
+                "source": "right eye",
+                "target": "left leg",
+                "relationship": "above"
+            },
+            {
+                "source": "mouth",
+                "target": "left foot",
+                "relationship": "above"
+            },
+            {
+                "source": "mouth",
+                "target": "right leg",
+                "relationship": "above"
+            },
+            {
+                "source": "mouth",
+                "target": "right foot",
+                "relationship": "above"
+            },
+            {
+                "source": "mouth",
+                "target": "left leg",
+                "relationship": "above"
+            },
+            {
+                "source": "nose",
+                "target": "left foot",
+                "relationship": "above"
+            },
+            {
+                "source": "nose",
+                "target": "right leg",
+                "relationship": "above"
+            },
+            {
+                "source": "nose",
+                "target": "right foot",
+                "relationship": "above"
+            },
+            {
+                "source": "nose",
+                "target": "left leg",
+                "relationship": "above"
+            },
+            {
+                "source": "left ear",
+                "target": "left foot",
+                "relationship": "above"
+            },
+            {
+                "source": "left ear",
+                "target": "right leg",
+                "relationship": "above"
+            },
+            {
+                "source": "left ear",
+                "target": "right foot",
+                "relationship": "above"
+            },
+            {
+                "source": "left ear",
+                "target": "left leg",
+                "relationship": "above"
+            },
+            {
+                "source": "right ear",
+                "target": "left foot",
+                "relationship": "above"
+            },
+            {
+                "source": "right ear",
+                "target": "right leg",
+                "relationship": "above"
+            },
+            {
+                "source": "right ear",
+                "target": "right foot",
+                "relationship": "above"
+            },
+            {
+                "source": "right ear",
+                "target": "left leg",
+                "relationship": "above"
+            },
+            {
+                "source": "left foot",
+                "target": "right ear",
+                "relationship": "below"
+            },
+            {
+                "source": "left foot",
+                "target": "mouth",
+                "relationship": "below"
+            },
+            {
+                "source": "left foot",
+                "target": "right eye",
+                "relationship": "below"
+            },
+            {
+                "source": "left foot",
+                "target": "left eye",
+                "relationship": "below"
+            },
+            {
+                "source": "left foot",
+                "target": "left ear",
+                "relationship": "below"
+            },
+            {
+                "source": "left foot",
+                "target": "nose",
+                "relationship": "below"
+            },
+            {
+                "source": "left foot",
+                "target": "head",
+                "relationship": "below"
+            },
+            {
+                "source": "right foot",
+                "target": "right ear",
+                "relationship": "below"
+            },
+            {
+                "source": "right foot",
+                "target": "mouth",
+                "relationship": "below"
+            },
+            {
+                "source": "right foot",
+                "target": "right eye",
+                "relationship": "below"
+            },
+            {
+                "source": "right foot",
+                "target": "left eye",
+                "relationship": "below"
+            },
+            {
+                "source": "right foot",
+                "target": "left ear",
+                "relationship": "below"
+            },
+            {
+                "source": "right foot",
+                "target": "nose",
+                "relationship": "below"
+            },
+            {
+                "source": "right foot",
+                "target": "head",
+                "relationship": "below"
+            },
+            {
+                "source": "left leg",
+                "target": "right ear",
+                "relationship": "below"
+            },
+            {
+                "source": "left leg",
+                "target": "mouth",
+                "relationship": "below"
+            },
+            {
+                "source": "left leg",
+                "target": "right eye",
+                "relationship": "below"
+            },
+            {
+                "source": "left leg",
+                "target": "left eye",
+                "relationship": "below"
+            },
+            {
+                "source": "left leg",
+                "target": "left ear",
+                "relationship": "below"
+            },
+            {
+                "source": "left leg",
+                "target": "nose",
+                "relationship": "below"
+            },
+            {
+                "source": "right leg",
+                "target": "right ear",
+                "relationship": "below"
+            },
+            {
+                "source": "right leg",
+                "target": "mouth",
+                "relationship": "below"
+            },
+            {
+                "source": "right leg",
+                "target": "right eye",
+                "relationship": "below"
+            },
+            {
+                "source": "right leg",
+                "target": "left eye",
+                "relationship": "below"
+            },
+            {
+                "source": "right leg",
+                "target": "left ear",
+                "relationship": "below"
+            },
+            {
+                "source": "right leg",
+                "target": "nose",
+                "relationship": "below"
+            },
+            {
+                "source": "mouth",
+                "target": "right eye",
+                "relationship": "below"
+            },
+            {
+                "source": "mouth",
+                "target": "left eye",
+                "relationship": "below"
+            },
+            {
+                "source": "right arm",
+                "target": "left arm",
+                "relationship": "right of"
+            },
+            {
+                "source": "right eye",
+                "target": "left eye",
+                "relationship": "right of"
+            },
+            {
+                "source": "left arm",
+                "target": "right arm",
+                "relationship": "left of"
+            },
+            {
+                "source": "left eye",
+                "target": "right eye",
+                "relationship": "left of"
+            },
+            {
+                "source": "left leg",
+                "target": "torso",
+                "relationship": "connected"
+            },
+            {
+                "source": "right leg",
+                "target": "torso",
+                "relationship": "connected"
+            },
+            {
+                "source": "left arm",
+                "target": "torso",
+                "relationship": "connected"
+            },
+            {
+                "source": "right arm",
+                "target": "torso",
+                "relationship": "connected"
+            },
+            {
+                "source": "head",
+                "target": "torso",
+                "relationship": "connected"
+            },
+            {
+                "source": "left hand",
+                "target": "left arm",
+                "relationship": "connected"
+            },
+            {
+                "source": "right hand",
+                "target": "right arm",
+                "relationship": "connected"
+            },
+            {
+                "source": "left foot",
+                "target": "left leg",
+                "relationship": "connected"
+            },
+            {
+                "source": "right foot",
+                "target": "right leg",
+                "relationship": "connected"
+            },
+            {
+                "source": "left eye",
+                "target": "head",
+                "relationship": "connected"
+            },
+            {
+                "source": "right eye",
+                "target": "head",
+                "relationship": "connected"
+            },
+            {
+                "source": "mouth",
+                "target": "head",
+                "relationship": "connected"
+            },
+            {
+                "source": "nose",
+                "target": "head",
+                "relationship": "connected"
+            },
+            {
+                "source": "left ear",
+                "target": "head",
+                "relationship": "connected"
+            },
+            {
+                "source": "right ear",
+                "target": "head",
+                "relationship": "connected"
+            }
+        ]
+    }
+]

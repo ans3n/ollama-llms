@@ -1,0 +1,100 @@
+true.    the trunk connects the roots to the branches in a tree structure.
+true
+true
+false.    in an elm, the leaves are directly connected to the branches.
+true
+true
+true
+true
+true
+true.    the roots are typically located beneath the ground and support the trunk, which is above ground.
+true
+false.    the tabletop is typically placed on the legs, so the right back leg is below the tabletop.
+true
+true
+false.
+true
+false.    the 'cabin' is located at the center of the ship, while the 'starboard side' is the right side of the ship when facing forward.
+false
+true
+true
+true
+true
+true
+true
+true.    the trunk is located above the roots in a tree structure.
+true
+false.    the 'cabin' is usually located at the rear of a sailboat, while the 'port side' is the left side of the boat as viewed from the bow.
+true
+false.    the seat is typically connected to the left front leg in a chair.
+false.    the backrest is typically located at the top of a bench, while the front legs are below that.
+true
+false
+false.    the rudder is typically located at the back of a sailboat, not behind the cabin.
+false
+true
+true
+true
+true
+true
+true
+true
+true
+false
+false
+false.    the 'cabin' is usually located towards the center of the ship, while the 'starboard side' is the right side of the ship as viewed from the bow.
+true
+true
+true
+false.    branches are connected to leaves in a maple tree.
+true
+true
+true
+false.    the components listed are all legs of a dinner table, and they would typically be connected to each other to form the base of the table.
+true
+false.    in an elm, the trunk is connected to the branches.
+true
+true
+true
+true
+true
+true
+false
+false.    the roots of a tree are located underground, while the branches are located above ground.
+true
+true
+true
+false
+true.    the headlight is located in front of the driver seat.
+true
+true
+true
+false.    in an elm, the trunk is connected to the roots.
+true
+false.    in an elm, the branches are above the roots in hierarchical order.
+true
+true
+true
+true
+true
+true
+true
+false.    the 'cabin' is usually located at the center of the ship, not to the left of the 'port side'.
+true
+true
+true
+true
+false
+true
+true
+false.
+true
+true
+true
+false
+false.    in a standard bench configuration, the seat is typically connected to the left back leg.
+true
+false.    in an elm, the trunk is connected to the branches.
+true
+true
+true

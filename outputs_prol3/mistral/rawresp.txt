@@ -1,0 +1,100 @@
+true
+false
+false
+false
+true
+true
+true
+false
+true
+true
+true
+false
+true
+false. in a bus, the right front wheel is to the right (not left) of the left front wheel.
+false
+true
+false
+false
+true
+true
+true
+false
+false
+true
+true
+true
+false. the cabin is typically located in the center or near the middle of the boat, not on either the port (left) or starboard (right) sides.
+false
+true
+false
+false. in a standard vehicle layout, the left headlight is generally positioned to the left of the left mirror.
+false
+true
+false
+false
+false
+true
+false
+true
+true
+true
+false
+false
+true
+false
+false. in a typical tree structure, roots are located underground, while the trunk grows vertically from the roots and branches extend outward above the trunk.
+false
+true
+true
+true
+false
+true
+true
+false
+false. in an elm tree, the trunk is indeed connected to branches. branches usually grow directly out from the trunk or from larger branches.
+false
+true
+false
+true. the chassis of a truck is typically connected to all the wheels, including the left front wheel. this connection allows the wheels to rotate and enables the vehicle to move.
+true
+false
+false
+false
+false. in a typical configuration of a truck, the chassis is connected to all wheels (four in the case of a standard pickup truck), but not directly to the right back wheel. the wheels are connected to the chassis via an axle and other suspension components.
+true
+false. in the given arrangement of a nightstand, the tabletop would typically be at a higher level than any legs.
+false. the driver seat in a truck is typically located below the level of both the front and rear wheels, including the right back wheel.
+true
+true
+false
+true
+false
+true
+false
+false
+false
+false
+false
+true
+true
+true
+false (or 'no'). in a ship, the port side is to the left when facing the front (bow) of the ship. the cabin can be located on either the port or starboard side, but it is not considered part of the port side itself.
+false
+false
+true
+true
+true
+false
+false
+true
+true
+true
+true
+false
+true
+false
+false
+true
+true
+true

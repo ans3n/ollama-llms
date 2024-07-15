@@ -1,0 +1,6 @@
+Model: mistral.
+CPU only: False.
+DS size: 100.
+Accuracy: 0.71.
+Average time per question: 0.34 seconds.
+Wrong format responses: 0 (0.00%).

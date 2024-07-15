@@ -1,0 +1,100 @@
+yes, the 'trunk' of a tree is connected to its 'branches'.
+true
+false
+true
+false
+true
+true
+false
+false
+yes, roots are typically located below the trunk in a maple tree.
+true
+true
+yes, roots are typically located below branches in trees.
+no.
+true.
+false.
+true
+true.
+true.
+false
+false.
+true.
+true.
+false. the branches are located higher up the tree than the trunk and extend from the upper part of the trunk.
+true
+true.
+true
+yes, the cabin is to the right of the port side on a traditional sailboat.
+false.
+true
+false. in a car with components like these, the left and right side are not symmetrical, so they do not swap places when viewed from the front or back. the left headlight would be on the driver side, which is different from the right mirror.
+false. the correct order of these components would be torso, head, left arm, left eye, right arm, right eye, mouth, nose, left ear, right ear, left hand, right hand, left foot, right foot, and then the legs in their respective positions on either side of the torso.
+no, it is not. the position of the rudder on a typical sailboat is directly below the stern (the back) of the vessel, while the cabin is located at the front of the boat.
+true
+true.
+no, it is not true. the arrangement of the legs on a bench is typically from left to right (front to back). so "left front leg" would be in front of "left back leg".
+true.
+no, the 'seat' component is always placed between the 'backrest' and 'left front leg'. therefore, in a bench with the given components, the 'backrest' would be positioned to the left of the 'right front leg', and not ahead of it.
+true
+true
+true
+true.
+true.
+false. the chassis connects to the wheels and the axles that allow the vehicle to move forward or backward.
+false
+true
+false
+false
+true
+false. the right foot is located on the ground and is not directly below any part of a man's body that has anatomical components in this order.
+false
+true.
+true
+true
+false - the trunk of an elm tree connects to the branches.
+true
+false
+yes.
+true.
+true
+true
+false
+false. the correct order would be roots, then trunk, then branches and finally leaves.
+true.
+true.
+true
+false.
+true.
+the correct answer is true. the sail and the rudder are both located on the top of a boat, with the bow and stern located at either end. therefore, the sail is positioned higher than the rudder, which is located at the back of the boat.
+true.
+true
+true
+true
+true
+true
+true
+the answer to the question is false. the arrangement of wheels in a typical truck is usually as follows: left rear wheel > right rear wheel > left front wheel > right front wheel. this means that left back wheel is behind left front wheel, which is why the answer is false.
+true
+false
+false
+false
+true.
+false
+yes, it is true.
+true
+true.
+true.
+yes.
+true
+true
+true
+true
+true
+false
+true
+true
+true
+false.
+true
+false

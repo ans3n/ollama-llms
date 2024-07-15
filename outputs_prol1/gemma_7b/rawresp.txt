@@ -1,0 +1,100 @@
+true.    the trunk is the structural support of a tree and connects to the branches.
+true
+true
+false.    leaves are connected to branches as part of the structural framework of an elm tree.
+true.    the roots of a tree are located underground and are positioned beneath the trunk.
+true.    the branches are located below the trunk in an elm tree.
+true
+true
+true.    the trunk is located between the roots and branches in an oak tree.
+true
+true.    the sail is typically positioned above the rudder on a boat.
+true
+true
+false.    the right front wheel is located to the right of the left front wheel.
+false.
+true
+true
+false.
+true
+true.    the arrangement suggests a standard rectangular dinner table configuration, with the legs positioned in a mirrored fashion left to right.
+true
+true
+true
+true.    the branches are appendages of the trunk in a maple tree.
+true
+true
+true
+true
+false.
+false.
+true
+false.
+false.    the rudder is typically located at the back of a sailboat, not behind the cabin.
+true
+true
+false.    the left front leg is typically located in front of the left back leg in a bench configuration.
+true.    the seat is typically attached to the left front leg of a chair.
+true.    the backrest is located at the top of the bench and the right front leg is located at the bottom.
+true
+true
+true
+true
+false.
+true
+true
+false.    the roots of a tree are located underground, while the trunk is above ground.
+true
+true
+false.    branches are directly connected to the trunk and support the leaves.
+true.    the nose is located on the face, which is above the feet.
+true
+true
+true
+true.    the seat is typically located below the height of the legs.
+false.    the trunk connects to the branches in an elm tree.
+true.    the arrangement of legs typically follows a mirrored pattern, with the left and right legs mirroring each other.
+true.    the trunk is typically located above the roots in an oak tree.
+true
+true
+true.    the roots are located underground and support the trunk, which is above ground.
+true
+true
+false.    the roots of a tree are located underground, while the branches are located above ground.
+true
+true
+true
+true
+true
+true
+true
+true.    the arrangement of legs typically follows a front-to-back direction.
+false.    the trunk is connected to the roots, forming the structural base of an elm tree.
+true
+false.    the branches are positioned above the roots in an elm tree.
+true
+true
+true
+true.    the branches are located above the roots in a tree hierarchy.
+true.    the seat is typically connected to the legs of a chair, not the backrest or the legs on the opposite side.
+true.    the rudder is typically located behind the sail in a sailboat.
+true.    the trunk is typically connected to the roots of a tree.
+true
+true
+true
+true
+true.    the roots are located beneath the ground and support the trunk which is above ground.
+false.    the torso is located in the center of the humanoid, while the left arm is located on the left side of the humanoid.
+true
+true.    the tabletop is typically positioned above the legs of a dinner table.
+false.
+true
+true
+true
+false.
+false.
+true
+false.    the trunk is typically connected to the branches in an elm tree.
+true.    the trunk is connected to the roots of a tree, providing structural support and anchoring the tree into the ground.
+true
+true

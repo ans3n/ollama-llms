@@ -1,0 +1,6 @@
+Model: llama2-uncensored.
+CPU only: False.
+DS size: 100.
+Accuracy: 0.44.
+Average time per question: 0.36 seconds.
+Wrong format responses: 15 (15.00%).
