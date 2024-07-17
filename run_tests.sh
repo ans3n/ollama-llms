@@ -25,7 +25,8 @@ do
   echo "about to run script on $model with directory name $dir_name"
   # Run the Python script and redirect the output. NOTE - CHANGE FROM SMALL FILES TO REGULAR LATER
   python3 test_llms.py --model "$model" --pred_file "./outputs/$dir_name/pred-small.txt" --resp_file "./outputs/$dir_name/rawresp-small.txt" > "./outputs/$dir_name/stdout.txt"
-
+  #python3 test_llms.py
+  
   echo "Analysis of $model complete. Analysis saved to ./outputs/$dir_name."
 
   #NOTE: REMOVE LATER

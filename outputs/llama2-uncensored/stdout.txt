@@ -1,0 +1,11 @@
+parsed argument as ArgumentParser(prog='LLM Tester', usage=None, description='Test LLMs using provided dataset files.', formatter_class=<class 'argparse.HelpFormatter'>, conflict_handler='error', add_help=True)
+
+added additional arguments to parser, now as ArgumentParser(prog='LLM Tester', usage=None, description='Test LLMs using provided dataset files.', formatter_class=<class 'argparse.HelpFormatter'>, conflict_handler='error', add_help=True)
+
+ arguments are Namespace(dsx='./dsx-small.txt', dsy='./dsy-small.txt', model='llama2-uncensored', cpu=False, pull_models=False, pred_file='./outputs/llama2-uncensored/pred-small.txt', resp_file='./outputs/llama2-uncensored/rawresp-small.txt')
+Model: llama2-uncensored.
+CPU only: False.
+DS size: 5.
+Accuracy: 0.40.
+Average time per question: 9.23 seconds.
+Wrong format responses: 0 (0.00%).

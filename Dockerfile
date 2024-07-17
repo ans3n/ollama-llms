@@ -10,7 +10,7 @@ COPY . /app
 # Add test_llms.py into the container
 #ADD test_llms.py /app/test_llms.py
 
-# Install Dependencies
+# Install Dependencies 
 RUN pip install ollama scikit-learn openai
 
 RUN chmod +x run_tests.sh

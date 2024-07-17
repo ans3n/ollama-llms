@@ -1,10 +1,5 @@
-bad-format
 true
 true
-false
 true
 false
-true
-bad-format
-true
-true
+false
