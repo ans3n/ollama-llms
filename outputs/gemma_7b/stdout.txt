@@ -1,0 +1,5 @@
+parsed argument as ArgumentParser(prog='LLM Tester', usage=None, description='Test LLMs using provided dataset files.', formatter_class=<class 'argparse.HelpFormatter'>, conflict_handler='error', add_help=True)
+
+added additional arguments to parser, now as ArgumentParser(prog='LLM Tester', usage=None, description='Test LLMs using provided dataset files.', formatter_class=<class 'argparse.HelpFormatter'>, conflict_handler='error', add_help=True)
+
+ arguments are Namespace(dsx='./dsx.txt', dsy='./dsy.txt', model='gemma:7b', cpu=False, pull_models=False, pred_file='./outputs/gemma_7b/pred.txt', resp_file='./outputs/gemma_7b/rawresp.txt')

@@ -1,0 +1,11 @@
+parsed argument as ArgumentParser(prog='LLM Tester', usage=None, description='Test LLMs using provided dataset files.', formatter_class=<class 'argparse.HelpFormatter'>, conflict_handler='error', add_help=True)
+
+added additional arguments to parser, now as ArgumentParser(prog='LLM Tester', usage=None, description='Test LLMs using provided dataset files.', formatter_class=<class 'argparse.HelpFormatter'>, conflict_handler='error', add_help=True)
+
+ arguments are Namespace(dsx='./dsx.txt', dsy='./dsy.txt', model='gemma:2b', cpu=False, pull_models=False, pred_file='./outputs/gemma_2b/pred.txt', resp_file='./outputs/gemma_2b/rawresp.txt')
+Model: gemma:2b.
+CPU only: False.
+DS size: 100.
+Accuracy: 0.56.
+Average time per question: 3.90 seconds.
+Wrong format responses: 0 (0.00%).

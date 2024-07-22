@@ -165,8 +165,8 @@ def main(args):
 
 def config_cli_parser(parser):
     #TODO: CHANGE LATER - CHANGE BACK TO ORIGINAL FILES LATER
-    parser.add_argument("--dsx", default="./dsx-small.txt", help="Path to the questions dataset file.")
-    parser.add_argument("--dsy", default="./dsy-small.txt", help="Path to the answers dataset file.")
+    parser.add_argument("--dsx", default="./dsx.txt", help="Path to the questions dataset file.")
+    parser.add_argument("--dsy", default="./dsy.txt", help="Path to the answers dataset file.")
     parser.add_argument("--model", default="llama3", help="LLM model to use.")
     parser.add_argument("--cpu", action="store_true", help="Use CPU instead of GPU.")
     parser.add_argument("--pull_models", action="store_true", help="Force pull models associated with Ollama.")

@@ -1,6 +1,0 @@
-Model: gemma:2b.
-CPU only: False.
-DS size: 100.
-Accuracy: 0.48.
-Average time per question: 4.40 seconds.
-Wrong format responses: 3 (3.00%).

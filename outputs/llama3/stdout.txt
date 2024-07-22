@@ -1,0 +1,11 @@
+parsed argument as ArgumentParser(prog='LLM Tester', usage=None, description='Test LLMs using provided dataset files.', formatter_class=<class 'argparse.HelpFormatter'>, conflict_handler='error', add_help=True)
+
+added additional arguments to parser, now as ArgumentParser(prog='LLM Tester', usage=None, description='Test LLMs using provided dataset files.', formatter_class=<class 'argparse.HelpFormatter'>, conflict_handler='error', add_help=True)
+
+ arguments are Namespace(dsx='./dsx.txt', dsy='./dsy.txt', model='llama3', cpu=False, pull_models=False, pred_file='./outputs/llama3/pred.txt', resp_file='./outputs/llama3/rawresp.txt')
+Model: llama3.
+CPU only: False.
+DS size: 100.
+Accuracy: 0.61.
+Average time per question: 23.98 seconds.
+Wrong format responses: 0 (0.00%).
