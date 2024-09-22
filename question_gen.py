@@ -43,6 +43,7 @@ def main(args):
     with open(args.obj_json, 'r') as f:
         obj_data = json.load(f)
     dsx, dsy = [], []   # X and y components of the dataset.
+    objectData = [] #contains what every object and their components are for later LLM object specific rule generation
     for i in range(args.n):
         obj = random.choice(obj_data)
         alias = random.choice(obj["alias"])
@@ -59,12 +60,26 @@ def main(args):
             question = question_template.format(alias=alias, components=', '.join(obj["nodes"]), source=source, relationship=wrong_relationship, target=target)
         dsx.append(question)
         dsy.append(answer)
+
+        # Add alias and components to objectData
+        objectData.append({'alias': alias, 'components': obj["nodes"]})
+
     with open(f'{args.out_dir}/dsx.txt', 'w') as f:
         for question in dsx:
             f.write(question + '\n')
     with open(f'{args.out_dir}/dsy.txt', 'w') as f:
         for answer in dsy:
             f.write(str(answer) + '\n')
+    '''
+    # Write objectData to objects.txt
+    with open(f'{args.out_dir}/objects.txt', 'w') as f:
+        for obj in objectData:
+            f.write(f"Alias: {obj['alias']}, Components: {', '.join(obj['components'])}\n")
+    '''
+    # Write objectData to objects.txt without any prefix
+    with open(f'{args.out_dir}/objects.txt', 'w') as f:
+        for obj in objectData:
+            f.write(f"{obj['alias']}, {', '.join(obj['components'])}\n")
     print("Done.")
 
 

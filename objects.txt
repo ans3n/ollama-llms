@@ -1,0 +1,100 @@
+biped, torso, head, left leg, right leg, left arm, right arm, left eye, right eye, mouth, nose, left ear, right ear, left hand, right hand, left foot, right foot
+table, tabletop, left front leg, left back leg, right front leg, right back leg
+nightstand, tabletop, left front leg, left back leg, right front leg, right back leg
+biped, torso, head, left leg, right leg, left arm, right arm, left eye, right eye, mouth, nose, left ear, right ear, left hand, right hand, left foot, right foot
+car, chassis, left front wheel, right front wheel, left back wheel, right back wheel, left mirror, right mirror, left headlight, right headlight, driver seat, trunk, windshield
+ship, sail, cabin, bow, stern, port side, starboard side, rudder
+maple, roots, trunk, branches, leaves
+boat, sail, cabin, bow, stern, port side, starboard side, rudder
+dinner table, tabletop, left front leg, left back leg, right front leg, right back leg
+man, torso, head, left leg, right leg, left arm, right arm, left eye, right eye, mouth, nose, left ear, right ear, left hand, right hand, left foot, right foot
+humanoid, torso, head, left leg, right leg, left arm, right arm, left eye, right eye, mouth, nose, left ear, right ear, left hand, right hand, left foot, right foot
+desk, tabletop, left front leg, left back leg, right front leg, right back leg
+nightstand, tabletop, left front leg, left back leg, right front leg, right back leg
+bus, chassis, left front wheel, right front wheel, left back wheel, right back wheel, left mirror, right mirror, left headlight, right headlight, driver seat, trunk, windshield
+truck, chassis, left front wheel, right front wheel, left back wheel, right back wheel, left mirror, right mirror, left headlight, right headlight, driver seat, trunk, windshield
+elm, roots, trunk, branches, leaves
+maple, roots, trunk, branches, leaves
+bench, backrest, seat, left front leg, left back leg, right front leg, right back leg
+chair, backrest, seat, left front leg, left back leg, right front leg, right back leg
+car, chassis, left front wheel, right front wheel, left back wheel, right back wheel, left mirror, right mirror, left headlight, right headlight, driver seat, trunk, windshield
+human, torso, head, left leg, right leg, left arm, right arm, left eye, right eye, mouth, nose, left ear, right ear, left hand, right hand, left foot, right foot
+chair, backrest, seat, left front leg, left back leg, right front leg, right back leg
+chair, backrest, seat, left front leg, left back leg, right front leg, right back leg
+boat, sail, cabin, bow, stern, port side, starboard side, rudder
+nightstand, tabletop, left front leg, left back leg, right front leg, right back leg
+person, torso, head, left leg, right leg, left arm, right arm, left eye, right eye, mouth, nose, left ear, right ear, left hand, right hand, left foot, right foot
+car, chassis, left front wheel, right front wheel, left back wheel, right back wheel, left mirror, right mirror, left headlight, right headlight, driver seat, trunk, windshield
+biped, torso, head, left leg, right leg, left arm, right arm, left eye, right eye, mouth, nose, left ear, right ear, left hand, right hand, left foot, right foot
+bench, backrest, seat, left front leg, left back leg, right front leg, right back leg
+dinner table, tabletop, left front leg, left back leg, right front leg, right back leg
+chair, backrest, seat, left front leg, left back leg, right front leg, right back leg
+dinner table, tabletop, left front leg, left back leg, right front leg, right back leg
+boat, sail, cabin, bow, stern, port side, starboard side, rudder
+boat, sail, cabin, bow, stern, port side, starboard side, rudder
+table, tabletop, left front leg, left back leg, right front leg, right back leg
+truck, chassis, left front wheel, right front wheel, left back wheel, right back wheel, left mirror, right mirror, left headlight, right headlight, driver seat, trunk, windshield
+chair, backrest, seat, left front leg, left back leg, right front leg, right back leg
+ship, sail, cabin, bow, stern, port side, starboard side, rudder
+bus, chassis, left front wheel, right front wheel, left back wheel, right back wheel, left mirror, right mirror, left headlight, right headlight, driver seat, trunk, windshield
+sailboat, sail, cabin, bow, stern, port side, starboard side, rudder
+human, torso, head, left leg, right leg, left arm, right arm, left eye, right eye, mouth, nose, left ear, right ear, left hand, right hand, left foot, right foot
+human, torso, head, left leg, right leg, left arm, right arm, left eye, right eye, mouth, nose, left ear, right ear, left hand, right hand, left foot, right foot
+chair, backrest, seat, left front leg, left back leg, right front leg, right back leg
+chair, backrest, seat, left front leg, left back leg, right front leg, right back leg
+human, torso, head, left leg, right leg, left arm, right arm, left eye, right eye, mouth, nose, left ear, right ear, left hand, right hand, left foot, right foot
+truck, chassis, left front wheel, right front wheel, left back wheel, right back wheel, left mirror, right mirror, left headlight, right headlight, driver seat, trunk, windshield
+bench, backrest, seat, left front leg, left back leg, right front leg, right back leg
+sailboat, sail, cabin, bow, stern, port side, starboard side, rudder
+truck, chassis, left front wheel, right front wheel, left back wheel, right back wheel, left mirror, right mirror, left headlight, right headlight, driver seat, trunk, windshield
+bus, chassis, left front wheel, right front wheel, left back wheel, right back wheel, left mirror, right mirror, left headlight, right headlight, driver seat, trunk, windshield
+dinner table, tabletop, left front leg, left back leg, right front leg, right back leg
+car, chassis, left front wheel, right front wheel, left back wheel, right back wheel, left mirror, right mirror, left headlight, right headlight, driver seat, trunk, windshield
+elm, roots, trunk, branches, leaves
+ship, sail, cabin, bow, stern, port side, starboard side, rudder
+man, torso, head, left leg, right leg, left arm, right arm, left eye, right eye, mouth, nose, left ear, right ear, left hand, right hand, left foot, right foot
+car, chassis, left front wheel, right front wheel, left back wheel, right back wheel, left mirror, right mirror, left headlight, right headlight, driver seat, trunk, windshield
+man, torso, head, left leg, right leg, left arm, right arm, left eye, right eye, mouth, nose, left ear, right ear, left hand, right hand, left foot, right foot
+desk, tabletop, left front leg, left back leg, right front leg, right back leg
+sailboat, sail, cabin, bow, stern, port side, starboard side, rudder
+humanoid, torso, head, left leg, right leg, left arm, right arm, left eye, right eye, mouth, nose, left ear, right ear, left hand, right hand, left foot, right foot
+truck, chassis, left front wheel, right front wheel, left back wheel, right back wheel, left mirror, right mirror, left headlight, right headlight, driver seat, trunk, windshield
+maple, roots, trunk, branches, leaves
+maple, roots, trunk, branches, leaves
+table, tabletop, left front leg, left back leg, right front leg, right back leg
+tree, roots, trunk, branches, leaves
+chair, backrest, seat, left front leg, left back leg, right front leg, right back leg
+man, torso, head, left leg, right leg, left arm, right arm, left eye, right eye, mouth, nose, left ear, right ear, left hand, right hand, left foot, right foot
+sailboat, sail, cabin, bow, stern, port side, starboard side, rudder
+sailboat, sail, cabin, bow, stern, port side, starboard side, rudder
+biped, torso, head, left leg, right leg, left arm, right arm, left eye, right eye, mouth, nose, left ear, right ear, left hand, right hand, left foot, right foot
+ship, sail, cabin, bow, stern, port side, starboard side, rudder
+nightstand, tabletop, left front leg, left back leg, right front leg, right back leg
+table, tabletop, left front leg, left back leg, right front leg, right back leg
+truck, chassis, left front wheel, right front wheel, left back wheel, right back wheel, left mirror, right mirror, left headlight, right headlight, driver seat, trunk, windshield
+human, torso, head, left leg, right leg, left arm, right arm, left eye, right eye, mouth, nose, left ear, right ear, left hand, right hand, left foot, right foot
+maple, roots, trunk, branches, leaves
+maple, roots, trunk, branches, leaves
+nightstand, tabletop, left front leg, left back leg, right front leg, right back leg
+car, chassis, left front wheel, right front wheel, left back wheel, right back wheel, left mirror, right mirror, left headlight, right headlight, driver seat, trunk, windshield
+bench, backrest, seat, left front leg, left back leg, right front leg, right back leg
+chair, backrest, seat, left front leg, left back leg, right front leg, right back leg
+table, tabletop, left front leg, left back leg, right front leg, right back leg
+oak, roots, trunk, branches, leaves
+truck, chassis, left front wheel, right front wheel, left back wheel, right back wheel, left mirror, right mirror, left headlight, right headlight, driver seat, trunk, windshield
+desk, tabletop, left front leg, left back leg, right front leg, right back leg
+car, chassis, left front wheel, right front wheel, left back wheel, right back wheel, left mirror, right mirror, left headlight, right headlight, driver seat, trunk, windshield
+elm, roots, trunk, branches, leaves
+boat, sail, cabin, bow, stern, port side, starboard side, rudder
+ship, sail, cabin, bow, stern, port side, starboard side, rudder
+ship, sail, cabin, bow, stern, port side, starboard side, rudder
+tree, roots, trunk, branches, leaves
+table, tabletop, left front leg, left back leg, right front leg, right back leg
+bench, backrest, seat, left front leg, left back leg, right front leg, right back leg
+dinner table, tabletop, left front leg, left back leg, right front leg, right back leg
+chair, backrest, seat, left front leg, left back leg, right front leg, right back leg
+tree, roots, trunk, branches, leaves
+bench, backrest, seat, left front leg, left back leg, right front leg, right back leg
+car, chassis, left front wheel, right front wheel, left back wheel, right back wheel, left mirror, right mirror, left headlight, right headlight, driver seat, trunk, windshield
+table, tabletop, left front leg, left back leg, right front leg, right back leg
+woman, torso, head, left leg, right leg, left arm, right arm, left eye, right eye, mouth, nose, left ear, right ear, left hand, right hand, left foot, right foot

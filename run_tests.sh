@@ -4,11 +4,11 @@
 #models=("llama2-uncensored" "llama3" "gemma:2b" "gemma:7b" "mistral" "llava" "gpt-3.5-turbo")
 #models=("llama2-uncensored")
 #models=("llama3")
-#models=("gemma:2b")
+models=("gemma:2b")
 #models=("gemma:7b")    
 #models=("mistral")
 #models=("llava")
-models=("gpt-3.5-turbo")
+#models=("gpt-3.5-turbo")
 
 # Create the outputs directory if it doesn't exist
 if [ ! -d "./outputs" ]; then

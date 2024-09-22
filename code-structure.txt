@@ -1,0 +1,14 @@
+1. Prompt the LLM with the questions
+2. For each question, note down the type of object and all components for each question in a file(objects.txt)
+3. Receive only the reasoning in a file(reasoning.txt)
+3. Python program generates the object specific Prolog rules from objects.txt
+4. Python program generates illogical queries(such as illogical cycle loops) to test within the Prolog script
+4. Python program integrates the new object specific rules with the rest of the Prolog rules
+5. Prolog program tests with the illogical test queries OR have the LLM manually scan the Prolog program for illogical
+rules(ex. right(A, B) and left(A, B) both exist)
+6. If any of the test queries return an incorrect result, throw an error to Python script. If all successful, return an
+output of either true or false to the Python script
+7. If an output is received by the Python script, return that output
+
+
+
