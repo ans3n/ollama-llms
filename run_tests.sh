@@ -5,10 +5,10 @@
 #models=("llama2-uncensored")
 #models=("llama3")
 #models=("gemma:2b")
-models=("gemma:7b")    
+#models=("gemma:7b")    
 #models=("mistral")
 #models=("llava")
-#models=("gpt-3.5-turbo")
+models=("gpt-3.5-turbo")
 
 # Create the outputs directory if it doesn't exist
 if [ ! -d "./outputs" ]; then
@@ -31,11 +31,8 @@ do
 
   echo "about to run script on $model with directory name $dir_name"
   # Run the Python script and redirect the output. NOTE - CHANGE FROM SMALL FILES TO REGULAR LATER
-  python3 test_llms.py --model "$model" --pred_file "./outputs/$dir_name/pred.txt" --resp_file "./outputs/$dir_name/rawresp.txt" > "./outputs/$dir_name/stdout.txt"
-  #python3 test_llms.py
+  python3 test_llms.py --model "$model" --pred_file "./outputs/$dir_name/pred-small.txt" --resp_file "./outputs/$dir_name/rawresp-small.txt" > "./outputs/$dir_name/stdout-small.txt"
   
   echo "Analysis of $model complete. Analysis saved to ./outputs/$dir_name."
 
-  #NOTE: REMOVE LATER
-  #exit 0
 done

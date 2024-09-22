@@ -1,0 +1,60 @@
+Model: llava.
+CPU only: False.
+DS size: 2.
+Accuracy: 0.50.
+Average time per question: 12.72 seconds.
+Wrong format responses: 0 (0.00%).
+Model: llava.
+CPU only: False.
+DS size: 2.
+Accuracy: 0.00.
+Average time per question: 11.30 seconds.
+Wrong format responses: 0 (0.00%).
+Model: llava.
+CPU only: False.
+DS size: 2.
+Accuracy: 0.50.
+Average time per question: 17.25 seconds.
+Wrong format responses: 0 (0.00%).
+Model: llava.
+CPU only: False.
+DS size: 2.
+Accuracy: 0.50.
+Average time per question: 15.45 seconds.
+Wrong format responses: 0 (0.00%).
+Model: llava.
+CPU only: False.
+DS size: 2.
+Accuracy: 0.00.
+Average time per question: 12.48 seconds.
+Wrong format responses: 0 (0.00%).
+Model: llava.
+CPU only: False.
+DS size: 2.
+Accuracy: 0.50.
+Average time per question: 9.74 seconds.
+Wrong format responses: 0 (0.00%).
+Model: llava.
+CPU only: False.
+DS size: 2.
+Accuracy: 0.50.
+Average time per question: 12.33 seconds.
+Wrong format responses: 0 (0.00%).
+Model: llava.
+CPU only: False.
+DS size: 2.
+Accuracy: 0.50.
+Average time per question: 10.96 seconds.
+Wrong format responses: 0 (0.00%).
+Model: llava.
+CPU only: False.
+DS size: 2.
+Accuracy: 0.00.
+Average time per question: 11.76 seconds.
+Wrong format responses: 0 (0.00%).
+Model: llava.
+CPU only: False.
+DS size: 2.
+Accuracy: 1.00.
+Average time per question: 10.50 seconds.
+Wrong format responses: 0 (0.00%).

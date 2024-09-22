@@ -1,5 +1,2 @@
-In a tree, with components [roots, trunk, branches, leaves], is 'trunk' connected to 'branches'?
 In a dinner table, with components [tabletop, left front leg, left back leg, right front leg, right back leg], is 'tabletop' below 'left back leg'?
 In a table, with components [tabletop, left front leg, left back leg, right front leg, right back leg], is 'tabletop' below 'left front leg'?
-In a elm, with components [roots, trunk, branches, leaves], is 'leaves' not connected to 'branches'?
-In a oak, with components [roots, trunk, branches, leaves], is 'roots' below 'trunk'?

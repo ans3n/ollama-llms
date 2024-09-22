@@ -77,78 +77,44 @@ def query_llm(model, question, use_cpu, pull_models):
 
 
 def main(args):
-    #print("enter test llms main \n")
-    questions, true_answers = load_dataset(args.dsx, args.dsy)  #dsx contains questions and dsy their respective answers
+    questions, true_answers = load_dataset(args.dsx, args.dsy)
     predicted_answers = []      # Used to count all answers as str.
     valid_answers = []          # Used to count only answers that are well-formed as bool.
     responses = []              # Used to hold raw str responses.
     total_time = 0
     wrong_format_count = 0
 
-    #print("before for loop\n")
-    #for every question do the following:
     for question in questions:
-        #print("examinign question " + question)
         start_time = time.time()
-
-        #print("start time is " + str(start_time))
-        # get the result(true/false/bad format) from llama as well as explanation
-        result, full_response = query_llm(args.model, question, args.cpu, args.pull_models) 
-        #print("\nresult and responses done\n")
-
+        result, full_response = query_llm(args.model, question, args.cpu, args.pull_models)
         responses.append(full_response)
         end_time = time.time()
         total_time += (end_time - start_time)
-
-        #print("\nresponses are" + str(responses))
-        #if llama thought the question was true
         if result == 1:
-            #print("respones are found as true\n")
             prediction = True
             valid_answers.append(prediction)
             predicted_answers.append("true")
-        #if llama thought the question was false
         elif result == 2:
-            #print("respones are found as false\n")
             prediction = False
             valid_answers.append(prediction)
             predicted_answers.append("false")
-        #if llama thought the question was badly formatted
         else:
-            #print("respones are found as bad format\n")
             wrong_format_count += 1
             valid_answers.append(None)
             predicted_answers.append("bad-format")
-    
-    #print("about to create valid true answers\n")
-    # run through every answer and create a tuple of actual vs. predicted answer given that the answer was in a good format
     valid_true_answers = [a for a, p in zip(true_answers, valid_answers) if p is not None]
-    #print("valid true answers" + str(valid_true_answers))
-
-    #print("\nabout to create valid predicted answers\n")
-    # take only the answers that were in good formats
     valid_predicted_answers = [p for p in valid_answers if p is not None]
-    #print("valid predicted answers: " + str(valid_predicted_answers) + "\n")
-
-    # accuracy metrics
     accuracy = accuracy_score(valid_true_answers, valid_predicted_answers)
     avg_time_per_question = total_time / len(questions)
     wrong_format_percent = (wrong_format_count / len(questions)) * 100
-    #print("accuracy: " + accuracy + " average time: " + avg_time_per_question + "wrong format percent " + wrong_format_percent + "\n")
-    # if the prediction file exists, write every answer the chatbot predicted
     if args.pred_file:
-        #print("write to prediction file\n")
-        with open(args.pred_file, 'w') as f:
+        with open(args.pred_file, 'w') as f:        #TODO: change later back to write
             for answer in predicted_answers:
                 f.write(f"{answer}\n")
-
-    # if the response file exsits write every explanation the chatbot gave to every question
     if args.resp_file:
-        #print("write to response file\n")
-        with open(args.resp_file, 'w') as f:
+        with open(args.resp_file, 'w') as f:        #TODO: change later back to write
             for r in responses:
                 f.write(f"{str(r)}\n")
-
     print(f"Model: {args.model}.")
     print(f"CPU only: {args.cpu}.")
     print(f"DS size: {len(questions)}.")
@@ -164,9 +130,8 @@ def main(args):
 #--------------------------------[module setup]---------------------------------
 
 def config_cli_parser(parser):
-    #TODO: CHANGE LATER - CHANGE BACK TO ORIGINAL FILES LATER
-    parser.add_argument("--dsx", default="./dsx.txt", help="Path to the questions dataset file.")
-    parser.add_argument("--dsy", default="./dsy.txt", help="Path to the answers dataset file.")
+    parser.add_argument("--dsx", default="./dsx-small.txt", help="Path to the questions dataset file.")
+    parser.add_argument("--dsy", default="./dsy-small.txt", help="Path to the answers dataset file.")
     parser.add_argument("--model", default="llama3", help="LLM model to use.")
     parser.add_argument("--cpu", action="store_true", help="Use CPU instead of GPU.")
     parser.add_argument("--pull_models", action="store_true", help="Force pull models associated with Ollama.")
@@ -174,21 +139,13 @@ def config_cli_parser(parser):
     parser.add_argument("--resp_file", help="Path to save raw response strings.")
     return parser
 
-#enters with inputs of model, prediction file, response file
 if __name__ == '__main__':
-    #print("entered test_llms\n")
-    parser = argparse.ArgumentParser(prog=NAME_STR, description=DESCRIP_STR)
-    print("parsed argument as " + str(parser))
-    #print("parsed argument as " + parser)
+    run_repeats = 10
 
-    parser = config_cli_parser(parser)      #adds additional command line arguments
-    #print("\nadded additional arguments to parser, now as " + parser)
-    print("\nadded additional arguments to parser, now as " + str(parser))
-
-    args = parser.parse_args()
-    print("\n arguments are " + str(args))
-
-    #prints model metrics and write to the prediction file what the chatbot predicted and to the response file its explanation
-    main(args)
+    for _ in range(run_repeats):
+        parser = argparse.ArgumentParser(prog=NAME_STR, description=DESCRIP_STR)
+        parser = config_cli_parser(parser)
+        args = parser.parse_args()
+        main(args)
 
 #===============================================================================
