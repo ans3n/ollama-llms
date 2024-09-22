@@ -1,0 +1,15 @@
+Object: ship
+1. sail(bow) :- directly_left(sail).
+2. cabin(starboard_side) :- directly_right(cabin).
+3. bow(directly_above(sail)) :- .
+4. stern(directly_below(rudder)).
+5. port_side(directly_ahead(bow)).
+6. starboard_side(directly_ahead(stern)).
+
+Object: truck
+left front wheel - directly_ahead of - left headlight;
+left mirror - directly_connected to - left front wheel;
+driver seat - directly_above left mirror;
+windshield - directly_right of driver seat;
+trunk - directly_below right back wheel.
+

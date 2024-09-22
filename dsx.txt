@@ -1,100 +1,100 @@
-In a biped, with components [torso, head, left leg, right leg, left arm, right arm, left eye, right eye, mouth, nose, left ear, right ear, left hand, right hand, left foot, right foot], is 'mouth' above 'right foot'?
-In a table, with components [tabletop, left front leg, left back leg, right front leg, right back leg], is 'tabletop' below 'left front leg'?
-In a nightstand, with components [tabletop, left front leg, left back leg, right front leg, right back leg], is 'left front leg' ahead of 'left back leg'?
-In a biped, with components [torso, head, left leg, right leg, left arm, right arm, left eye, right eye, mouth, nose, left ear, right ear, left hand, right hand, left foot, right foot], is 'right ear' ahead of 'mouth'?
-In a car, with components [chassis, left front wheel, right front wheel, left back wheel, right back wheel, left mirror, right mirror, left headlight, right headlight, driver seat, trunk, windshield], is 'right back wheel' not connected to 'chassis'?
 In a ship, with components [sail, cabin, bow, stern, port side, starboard side, rudder], is 'bow' behind 'cabin'?
-In a maple, with components [roots, trunk, branches, leaves], is 'roots' below 'trunk'?
-In a boat, with components [sail, cabin, bow, stern, port side, starboard side, rudder], is 'rudder' behind 'sail'?
-In a dinner table, with components [tabletop, left front leg, left back leg, right front leg, right back leg], is 'tabletop' above 'left front leg'?
-In a man, with components [torso, head, left leg, right leg, left arm, right arm, left eye, right eye, mouth, nose, left ear, right ear, left hand, right hand, left foot, right foot], is 'right ear' below 'left foot'?
-In a humanoid, with components [torso, head, left leg, right leg, left arm, right arm, left eye, right eye, mouth, nose, left ear, right ear, left hand, right hand, left foot, right foot], is 'left arm' below 'left ear'?
-In a desk, with components [tabletop, left front leg, left back leg, right front leg, right back leg], is 'right back leg' ahead of 'right front leg'?
-In a nightstand, with components [tabletop, left front leg, left back leg, right front leg, right back leg], is 'tabletop' above 'right front leg'?
-In a bus, with components [chassis, left front wheel, right front wheel, left back wheel, right back wheel, left mirror, right mirror, left headlight, right headlight, driver seat, trunk, windshield], is 'left headlight' not connected to 'chassis'?
-In a truck, with components [chassis, left front wheel, right front wheel, left back wheel, right back wheel, left mirror, right mirror, left headlight, right headlight, driver seat, trunk, windshield], is 'windshield' below 'left front wheel'?
-In a elm, with components [roots, trunk, branches, leaves], is 'trunk' connected to 'branches'?
-In a maple, with components [roots, trunk, branches, leaves], is 'trunk' above 'branches'?
-In a bench, with components [backrest, seat, left front leg, left back leg, right front leg, right back leg], is 'right back leg' right of 'left back leg'?
-In a chair, with components [backrest, seat, left front leg, left back leg, right front leg, right back leg], is 'backrest' not connected to 'seat'?
-In a car, with components [chassis, left front wheel, right front wheel, left back wheel, right back wheel, left mirror, right mirror, left headlight, right headlight, driver seat, trunk, windshield], is 'right back wheel' ahead of 'right front wheel'?
-In a human, with components [torso, head, left leg, right leg, left arm, right arm, left eye, right eye, mouth, nose, left ear, right ear, left hand, right hand, left foot, right foot], is 'nose' below 'right foot'?
-In a chair, with components [backrest, seat, left front leg, left back leg, right front leg, right back leg], is 'seat' not connected to 'right front leg'?
-In a chair, with components [backrest, seat, left front leg, left back leg, right front leg, right back leg], is 'seat' below 'right front leg'?
-In a boat, with components [sail, cabin, bow, stern, port side, starboard side, rudder], is 'rudder' ahead of 'bow'?
-In a nightstand, with components [tabletop, left front leg, left back leg, right front leg, right back leg], is 'left front leg' ahead of 'left back leg'?
-In a person, with components [torso, head, left leg, right leg, left arm, right arm, left eye, right eye, mouth, nose, left ear, right ear, left hand, right hand, left foot, right foot], is 'left hand' not connected to 'left arm'?
-In a car, with components [chassis, left front wheel, right front wheel, left back wheel, right back wheel, left mirror, right mirror, left headlight, right headlight, driver seat, trunk, windshield], is 'left back wheel' above 'windshield'?
-In a biped, with components [torso, head, left leg, right leg, left arm, right arm, left eye, right eye, mouth, nose, left ear, right ear, left hand, right hand, left foot, right foot], is 'left leg' above 'left foot'?
-In a bench, with components [backrest, seat, left front leg, left back leg, right front leg, right back leg], is 'backrest' behind 'left front leg'?
-In a dinner table, with components [tabletop, left front leg, left back leg, right front leg, right back leg], is 'right front leg' not connected to 'right back leg'?
-In a chair, with components [backrest, seat, left front leg, left back leg, right front leg, right back leg], is 'left front leg' connected to 'seat'?
-In a dinner table, with components [tabletop, left front leg, left back leg, right front leg, right back leg], is 'right back leg' not connected to 'left back leg'?
-In a boat, with components [sail, cabin, bow, stern, port side, starboard side, rudder], is 'starboard side' left of 'cabin'?
-In a boat, with components [sail, cabin, bow, stern, port side, starboard side, rudder], is 'cabin' right of 'starboard side'?
-In a table, with components [tabletop, left front leg, left back leg, right front leg, right back leg], is 'left front leg' not connected to 'left back leg'?
-In a truck, with components [chassis, left front wheel, right front wheel, left back wheel, right back wheel, left mirror, right mirror, left headlight, right headlight, driver seat, trunk, windshield], is 'trunk' above 'left back wheel'?
-In a chair, with components [backrest, seat, left front leg, left back leg, right front leg, right back leg], is 'right front leg' below 'seat'?
-In a ship, with components [sail, cabin, bow, stern, port side, starboard side, rudder], is 'sail' below 'rudder'?
-In a bus, with components [chassis, left front wheel, right front wheel, left back wheel, right back wheel, left mirror, right mirror, left headlight, right headlight, driver seat, trunk, windshield], is 'right back wheel' ahead of 'right front wheel'?
-In a sailboat, with components [sail, cabin, bow, stern, port side, starboard side, rudder], is 'sail' behind 'rudder'?
-In a human, with components [torso, head, left leg, right leg, left arm, right arm, left eye, right eye, mouth, nose, left ear, right ear, left hand, right hand, left foot, right foot], is 'right arm' right of 'torso'?
-In a human, with components [torso, head, left leg, right leg, left arm, right arm, left eye, right eye, mouth, nose, left ear, right ear, left hand, right hand, left foot, right foot], is 'torso' above 'left foot'?
-In a chair, with components [backrest, seat, left front leg, left back leg, right front leg, right back leg], is 'backrest' connected to 'seat'?
-In a chair, with components [backrest, seat, left front leg, left back leg, right front leg, right back leg], is 'backrest' ahead of 'right front leg'?
-In a human, with components [torso, head, left leg, right leg, left arm, right arm, left eye, right eye, mouth, nose, left ear, right ear, left hand, right hand, left foot, right foot], is 'left foot' above 'left ear'?
-In a truck, with components [chassis, left front wheel, right front wheel, left back wheel, right back wheel, left mirror, right mirror, left headlight, right headlight, driver seat, trunk, windshield], is 'driver seat' below 'left front wheel'?
-In a bench, with components [backrest, seat, left front leg, left back leg, right front leg, right back leg], is 'left front leg' behind 'left back leg'?
-In a sailboat, with components [sail, cabin, bow, stern, port side, starboard side, rudder], is 'sail' below 'cabin'?
-In a truck, with components [chassis, left front wheel, right front wheel, left back wheel, right back wheel, left mirror, right mirror, left headlight, right headlight, driver seat, trunk, windshield], is 'right mirror' right of 'left front wheel'?
-In a bus, with components [chassis, left front wheel, right front wheel, left back wheel, right back wheel, left mirror, right mirror, left headlight, right headlight, driver seat, trunk, windshield], is 'right front wheel' right of 'right mirror'?
-In a dinner table, with components [tabletop, left front leg, left back leg, right front leg, right back leg], is 'tabletop' below 'right front leg'?
-In a car, with components [chassis, left front wheel, right front wheel, left back wheel, right back wheel, left mirror, right mirror, left headlight, right headlight, driver seat, trunk, windshield], is 'left front wheel' behind 'left back wheel'?
-In a elm, with components [roots, trunk, branches, leaves], is 'trunk' not connected to 'roots'?
-In a ship, with components [sail, cabin, bow, stern, port side, starboard side, rudder], is 'starboard side' left of 'port side'?
-In a man, with components [torso, head, left leg, right leg, left arm, right arm, left eye, right eye, mouth, nose, left ear, right ear, left hand, right hand, left foot, right foot], is 'left eye' left of 'right eye'?
-In a car, with components [chassis, left front wheel, right front wheel, left back wheel, right back wheel, left mirror, right mirror, left headlight, right headlight, driver seat, trunk, windshield], is 'left headlight' ahead of 'windshield'?
-In a man, with components [torso, head, left leg, right leg, left arm, right arm, left eye, right eye, mouth, nose, left ear, right ear, left hand, right hand, left foot, right foot], is 'left arm' below 'left eye'?
-In a desk, with components [tabletop, left front leg, left back leg, right front leg, right back leg], is 'right front leg' not connected to 'right back leg'?
-In a sailboat, with components [sail, cabin, bow, stern, port side, starboard side, rudder], is 'port side' left of 'cabin'?
-In a humanoid, with components [torso, head, left leg, right leg, left arm, right arm, left eye, right eye, mouth, nose, left ear, right ear, left hand, right hand, left foot, right foot], is 'left eye' right of 'left arm'?
-In a truck, with components [chassis, left front wheel, right front wheel, left back wheel, right back wheel, left mirror, right mirror, left headlight, right headlight, driver seat, trunk, windshield], is 'chassis' connected to 'left back wheel'?
-In a maple, with components [roots, trunk, branches, leaves], is 'roots' above 'trunk'?
-In a maple, with components [roots, trunk, branches, leaves], is 'trunk' below 'branches'?
-In a table, with components [tabletop, left front leg, left back leg, right front leg, right back leg], is 'right front leg' ahead of 'right back leg'?
+In a truck, with components [chassis, left front wheel, right front wheel, left back wheel, right back wheel, left mirror, right mirror, left headlight, right headlight, driver seat, trunk, windshield], is 'right headlight' ahead of 'right mirror'?
+In a chair, with components [backrest, seat, left front leg, left back leg, right front leg, right back leg], is 'backrest' above 'right back leg'?
+In a car, with components [chassis, left front wheel, right front wheel, left back wheel, right back wheel, left mirror, right mirror, left headlight, right headlight, driver seat, trunk, windshield], is 'chassis' not connected to 'right headlight'?
+In a biped, with components [torso, head, left leg, right leg, left arm, right arm, left eye, right eye, mouth, nose, left ear, right ear, left hand, right hand, left foot, right foot], is 'left foot' below 'mouth'?
+In a maple, with components [roots, trunk, branches, leaves], is 'branches' not connected to 'leaves'?
+In a human, with components [torso, head, left leg, right leg, left arm, right arm, left eye, right eye, mouth, nose, left ear, right ear, left hand, right hand, left foot, right foot], is 'left arm' left of 'head'?
+In a oak, with components [roots, trunk, branches, leaves], is 'branches' below 'trunk'?
 In a tree, with components [roots, trunk, branches, leaves], is 'trunk' below 'roots'?
-In a chair, with components [backrest, seat, left front leg, left back leg, right front leg, right back leg], is 'seat' connected to 'backrest'?
-In a man, with components [torso, head, left leg, right leg, left arm, right arm, left eye, right eye, mouth, nose, left ear, right ear, left hand, right hand, left foot, right foot], is 'right arm' left of 'mouth'?
-In a sailboat, with components [sail, cabin, bow, stern, port side, starboard side, rudder], is 'rudder' behind 'cabin'?
-In a sailboat, with components [sail, cabin, bow, stern, port side, starboard side, rudder], is 'rudder' above 'sail'?
-In a biped, with components [torso, head, left leg, right leg, left arm, right arm, left eye, right eye, mouth, nose, left ear, right ear, left hand, right hand, left foot, right foot], is 'right eye' above 'left arm'?
-In a ship, with components [sail, cabin, bow, stern, port side, starboard side, rudder], is 'bow' behind 'cabin'?
-In a nightstand, with components [tabletop, left front leg, left back leg, right front leg, right back leg], is 'right back leg' right of 'left back leg'?
-In a table, with components [tabletop, left front leg, left back leg, right front leg, right back leg], is 'left front leg' left of 'right front leg'?
-In a truck, with components [chassis, left front wheel, right front wheel, left back wheel, right back wheel, left mirror, right mirror, left headlight, right headlight, driver seat, trunk, windshield], is 'left front wheel' behind 'left back wheel'?
-In a human, with components [torso, head, left leg, right leg, left arm, right arm, left eye, right eye, mouth, nose, left ear, right ear, left hand, right hand, left foot, right foot], is 'left ear' above 'right leg'?
-In a maple, with components [roots, trunk, branches, leaves], is 'trunk' above 'branches'?
-In a maple, with components [roots, trunk, branches, leaves], is 'trunk' above 'branches'?
-In a nightstand, with components [tabletop, left front leg, left back leg, right front leg, right back leg], is 'left back leg' not connected to 'right back leg'?
-In a car, with components [chassis, left front wheel, right front wheel, left back wheel, right back wheel, left mirror, right mirror, left headlight, right headlight, driver seat, trunk, windshield], is 'trunk' ahead of 'driver seat'?
-In a bench, with components [backrest, seat, left front leg, left back leg, right front leg, right back leg], is 'backrest' connected to 'seat'?
-In a chair, with components [backrest, seat, left front leg, left back leg, right front leg, right back leg], is 'backrest' connected to 'seat'?
-In a table, with components [tabletop, left front leg, left back leg, right front leg, right back leg], is 'tabletop' above 'left front leg'?
-In a oak, with components [roots, trunk, branches, leaves], is 'trunk' above 'roots'?
-In a truck, with components [chassis, left front wheel, right front wheel, left back wheel, right back wheel, left mirror, right mirror, left headlight, right headlight, driver seat, trunk, windshield], is 'chassis' not connected to 'left headlight'?
-In a desk, with components [tabletop, left front leg, left back leg, right front leg, right back leg], is 'left back leg' left of 'right back leg'?
-In a car, with components [chassis, left front wheel, right front wheel, left back wheel, right back wheel, left mirror, right mirror, left headlight, right headlight, driver seat, trunk, windshield], is 'right headlight' behind 'right mirror'?
-In a elm, with components [roots, trunk, branches, leaves], is 'branches' below 'trunk'?
-In a boat, with components [sail, cabin, bow, stern, port side, starboard side, rudder], is 'cabin' left of 'port side'?
-In a ship, with components [sail, cabin, bow, stern, port side, starboard side, rudder], is 'stern' behind 'bow'?
-In a ship, with components [sail, cabin, bow, stern, port side, starboard side, rudder], is 'rudder' connected to 'stern'?
-In a tree, with components [roots, trunk, branches, leaves], is 'branches' not connected to 'trunk'?
-In a table, with components [tabletop, left front leg, left back leg, right front leg, right back leg], is 'tabletop' above 'right back leg'?
-In a bench, with components [backrest, seat, left front leg, left back leg, right front leg, right back leg], is 'seat' above 'left front leg'?
-In a dinner table, with components [tabletop, left front leg, left back leg, right front leg, right back leg], is 'left back leg' connected to 'right back leg'?
-In a chair, with components [backrest, seat, left front leg, left back leg, right front leg, right back leg], is 'right front leg' right of 'left front leg'?
-In a tree, with components [roots, trunk, branches, leaves], is 'trunk' below 'branches'?
-In a bench, with components [backrest, seat, left front leg, left back leg, right front leg, right back leg], is 'backrest' connected to 'seat'?
-In a car, with components [chassis, left front wheel, right front wheel, left back wheel, right back wheel, left mirror, right mirror, left headlight, right headlight, driver seat, trunk, windshield], is 'driver seat' below 'left front wheel'?
-In a table, with components [tabletop, left front leg, left back leg, right front leg, right back leg], is 'right back leg' not connected to 'left back leg'?
-In a woman, with components [torso, head, left leg, right leg, left arm, right arm, left eye, right eye, mouth, nose, left ear, right ear, left hand, right hand, left foot, right foot], is 'head' connected to 'right eye'?
+In a boat, with components [sail, cabin, bow, stern, port side, starboard side, rudder], is 'starboard side' right of 'port side'?
+In a person, with components [torso, head, left leg, right leg, left arm, right arm, left eye, right eye, mouth, nose, left ear, right ear, left hand, right hand, left foot, right foot], is 'left arm' below 'left ear'?
+In a bench, with components [backrest, seat, left front leg, left back leg, right front leg, right back leg], is 'left front leg' not connected to 'seat'?
+In a woman, with components [torso, head, left leg, right leg, left arm, right arm, left eye, right eye, mouth, nose, left ear, right ear, left hand, right hand, left foot, right foot], is 'mouth' not connected to 'head'?
+In a man, with components [torso, head, left leg, right leg, left arm, right arm, left eye, right eye, mouth, nose, left ear, right ear, left hand, right hand, left foot, right foot], is 'right arm' not connected to 'torso'?
+In a chair, with components [backrest, seat, left front leg, left back leg, right front leg, right back leg], is 'right front leg' not connected to 'seat'?
+In a humanoid, with components [torso, head, left leg, right leg, left arm, right arm, left eye, right eye, mouth, nose, left ear, right ear, left hand, right hand, left foot, right foot], is 'left leg' above 'left ear'?
+In a truck, with components [chassis, left front wheel, right front wheel, left back wheel, right back wheel, left mirror, right mirror, left headlight, right headlight, driver seat, trunk, windshield], is 'right headlight' behind 'driver seat'?
+In a elm, with components [roots, trunk, branches, leaves], is 'branches' not connected to 'leaves'?
+In a truck, with components [chassis, left front wheel, right front wheel, left back wheel, right back wheel, left mirror, right mirror, left headlight, right headlight, driver seat, trunk, windshield], is 'trunk' below 'left front wheel'?
+In a humanoid, with components [torso, head, left leg, right leg, left arm, right arm, left eye, right eye, mouth, nose, left ear, right ear, left hand, right hand, left foot, right foot], is 'torso' below 'left foot'?
+In a bench, with components [backrest, seat, left front leg, left back leg, right front leg, right back leg], is 'seat' connected to 'right front leg'?
+In a desk, with components [tabletop, left front leg, left back leg, right front leg, right back leg], is 'tabletop' above 'left back leg'?
+In a oak, with components [roots, trunk, branches, leaves], is 'leaves' connected to 'branches'?
+In a bench, with components [backrest, seat, left front leg, left back leg, right front leg, right back leg], is 'seat' above 'backrest'?
+In a chair, with components [backrest, seat, left front leg, left back leg, right front leg, right back leg], is 'backrest' above 'right back leg'?
+In a boat, with components [sail, cabin, bow, stern, port side, starboard side, rudder], is 'starboard side' left of 'cabin'?
+In a ship, with components [sail, cabin, bow, stern, port side, starboard side, rudder], is 'stern' connected to 'rudder'?
+In a elm, with components [roots, trunk, branches, leaves], is 'trunk' above 'roots'?
+In a car, with components [chassis, left front wheel, right front wheel, left back wheel, right back wheel, left mirror, right mirror, left headlight, right headlight, driver seat, trunk, windshield], is 'driver seat' ahead of 'left headlight'?
+In a oak, with components [roots, trunk, branches, leaves], is 'trunk' below 'branches'?
+In a truck, with components [chassis, left front wheel, right front wheel, left back wheel, right back wheel, left mirror, right mirror, left headlight, right headlight, driver seat, trunk, windshield], is 'left back wheel' above 'chassis'?
+In a oak, with components [roots, trunk, branches, leaves], is 'roots' below 'branches'?
+In a bus, with components [chassis, left front wheel, right front wheel, left back wheel, right back wheel, left mirror, right mirror, left headlight, right headlight, driver seat, trunk, windshield], is 'right mirror' connected to 'chassis'?
+In a chair, with components [backrest, seat, left front leg, left back leg, right front leg, right back leg], is 'seat' above 'right front leg'?
+In a sailboat, with components [sail, cabin, bow, stern, port side, starboard side, rudder], is 'port side' left of 'starboard side'?
+In a desk, with components [tabletop, left front leg, left back leg, right front leg, right back leg], is 'left back leg' above 'tabletop'?
+In a bus, with components [chassis, left front wheel, right front wheel, left back wheel, right back wheel, left mirror, right mirror, left headlight, right headlight, driver seat, trunk, windshield], is 'right front wheel' right of 'right mirror'?
+In a tree, with components [roots, trunk, branches, leaves], is 'branches' connected to 'leaves'?
+In a bus, with components [chassis, left front wheel, right front wheel, left back wheel, right back wheel, left mirror, right mirror, left headlight, right headlight, driver seat, trunk, windshield], is 'left back wheel' below 'trunk'?
+In a bus, with components [chassis, left front wheel, right front wheel, left back wheel, right back wheel, left mirror, right mirror, left headlight, right headlight, driver seat, trunk, windshield], is 'left mirror' right of 'right front wheel'?
+In a person, with components [torso, head, left leg, right leg, left arm, right arm, left eye, right eye, mouth, nose, left ear, right ear, left hand, right hand, left foot, right foot], is 'right eye' right of 'right arm'?
+In a car, with components [chassis, left front wheel, right front wheel, left back wheel, right back wheel, left mirror, right mirror, left headlight, right headlight, driver seat, trunk, windshield], is 'trunk' below 'left back wheel'?
+In a tree, with components [roots, trunk, branches, leaves], is 'branches' connected to 'leaves'?
+In a person, with components [torso, head, left leg, right leg, left arm, right arm, left eye, right eye, mouth, nose, left ear, right ear, left hand, right hand, left foot, right foot], is 'right eye' left of 'left arm'?
+In a chair, with components [backrest, seat, left front leg, left back leg, right front leg, right back leg], is 'seat' below 'right back leg'?
+In a oak, with components [roots, trunk, branches, leaves], is 'roots' above 'trunk'?
+In a nightstand, with components [tabletop, left front leg, left back leg, right front leg, right back leg], is 'right front leg' connected to 'right back leg'?
+In a woman, with components [torso, head, left leg, right leg, left arm, right arm, left eye, right eye, mouth, nose, left ear, right ear, left hand, right hand, left foot, right foot], is 'torso' above 'right ear'?
+In a oak, with components [roots, trunk, branches, leaves], is 'roots' above 'trunk'?
+In a desk, with components [tabletop, left front leg, left back leg, right front leg, right back leg], is 'right back leg' connected to 'left back leg'?
+In a bench, with components [backrest, seat, left front leg, left back leg, right front leg, right back leg], is 'seat' above 'right back leg'?
+In a person, with components [torso, head, left leg, right leg, left arm, right arm, left eye, right eye, mouth, nose, left ear, right ear, left hand, right hand, left foot, right foot], is 'right eye' left of 'nose'?
+In a biped, with components [torso, head, left leg, right leg, left arm, right arm, left eye, right eye, mouth, nose, left ear, right ear, left hand, right hand, left foot, right foot], is 'nose' ahead of 'right ear'?
+In a humanoid, with components [torso, head, left leg, right leg, left arm, right arm, left eye, right eye, mouth, nose, left ear, right ear, left hand, right hand, left foot, right foot], is 'torso' below 'nose'?
+In a elm, with components [roots, trunk, branches, leaves], is 'leaves' not connected to 'branches'?
+In a nightstand, with components [tabletop, left front leg, left back leg, right front leg, right back leg], is 'left front leg' not connected to 'right front leg'?
+In a truck, with components [chassis, left front wheel, right front wheel, left back wheel, right back wheel, left mirror, right mirror, left headlight, right headlight, driver seat, trunk, windshield], is 'chassis' not connected to 'left mirror'?
+In a nightstand, with components [tabletop, left front leg, left back leg, right front leg, right back leg], is 'tabletop' below 'left back leg'?
+In a chair, with components [backrest, seat, left front leg, left back leg, right front leg, right back leg], is 'right front leg' below 'backrest'?
+In a car, with components [chassis, left front wheel, right front wheel, left back wheel, right back wheel, left mirror, right mirror, left headlight, right headlight, driver seat, trunk, windshield], is 'driver seat' below 'left back wheel'?
+In a car, with components [chassis, left front wheel, right front wheel, left back wheel, right back wheel, left mirror, right mirror, left headlight, right headlight, driver seat, trunk, windshield], is 'right mirror' right of 'right front wheel'?
+In a bus, with components [chassis, left front wheel, right front wheel, left back wheel, right back wheel, left mirror, right mirror, left headlight, right headlight, driver seat, trunk, windshield], is 'right front wheel' connected to 'chassis'?
+In a desk, with components [tabletop, left front leg, left back leg, right front leg, right back leg], is 'right front leg' above 'tabletop'?
+In a sailboat, with components [sail, cabin, bow, stern, port side, starboard side, rudder], is 'rudder' ahead of 'cabin'?
+In a woman, with components [torso, head, left leg, right leg, left arm, right arm, left eye, right eye, mouth, nose, left ear, right ear, left hand, right hand, left foot, right foot], is 'nose' above 'right leg'?
+In a chair, with components [backrest, seat, left front leg, left back leg, right front leg, right back leg], is 'left front leg' above 'backrest'?
+In a chair, with components [backrest, seat, left front leg, left back leg, right front leg, right back leg], is 'seat' below 'backrest'?
+In a bench, with components [backrest, seat, left front leg, left back leg, right front leg, right back leg], is 'seat' connected to 'backrest'?
+In a chair, with components [backrest, seat, left front leg, left back leg, right front leg, right back leg], is 'left front leg' behind 'backrest'?
+In a ship, with components [sail, cabin, bow, stern, port side, starboard side, rudder], is 'port side' left of 'starboard side'?
+In a bench, with components [backrest, seat, left front leg, left back leg, right front leg, right back leg], is 'left front leg' above 'seat'?
+In a boat, with components [sail, cabin, bow, stern, port side, starboard side, rudder], is 'rudder' not connected to 'stern'?
+In a bus, with components [chassis, left front wheel, right front wheel, left back wheel, right back wheel, left mirror, right mirror, left headlight, right headlight, driver seat, trunk, windshield], is 'left mirror' right of 'left back wheel'?
+In a biped, with components [torso, head, left leg, right leg, left arm, right arm, left eye, right eye, mouth, nose, left ear, right ear, left hand, right hand, left foot, right foot], is 'head' not connected to 'right eye'?
+In a biped, with components [torso, head, left leg, right leg, left arm, right arm, left eye, right eye, mouth, nose, left ear, right ear, left hand, right hand, left foot, right foot], is 'right leg' left of 'left arm'?
+In a ship, with components [sail, cabin, bow, stern, port side, starboard side, rudder], is 'bow' ahead of 'cabin'?
+In a table, with components [tabletop, left front leg, left back leg, right front leg, right back leg], is 'tabletop' below 'right back leg'?
+In a oak, with components [roots, trunk, branches, leaves], is 'trunk' below 'roots'?
+In a nightstand, with components [tabletop, left front leg, left back leg, right front leg, right back leg], is 'left front leg' below 'tabletop'?
+In a boat, with components [sail, cabin, bow, stern, port side, starboard side, rudder], is 'rudder' behind 'cabin'?
+In a ship, with components [sail, cabin, bow, stern, port side, starboard side, rudder], is 'rudder' behind 'cabin'?
+In a ship, with components [sail, cabin, bow, stern, port side, starboard side, rudder], is 'cabin' above 'sail'?
+In a boat, with components [sail, cabin, bow, stern, port side, starboard side, rudder], is 'cabin' behind 'bow'?
+In a oak, with components [roots, trunk, branches, leaves], is 'roots' below 'trunk'?
+In a chair, with components [backrest, seat, left front leg, left back leg, right front leg, right back leg], is 'left front leg' below 'seat'?
+In a sailboat, with components [sail, cabin, bow, stern, port side, starboard side, rudder], is 'sail' above 'cabin'?
+In a tree, with components [roots, trunk, branches, leaves], is 'roots' above 'branches'?
+In a sailboat, with components [sail, cabin, bow, stern, port side, starboard side, rudder], is 'cabin' ahead of 'stern'?
+In a oak, with components [roots, trunk, branches, leaves], is 'branches' below 'roots'?
+In a car, with components [chassis, left front wheel, right front wheel, left back wheel, right back wheel, left mirror, right mirror, left headlight, right headlight, driver seat, trunk, windshield], is 'windshield' behind 'right headlight'?
+In a nightstand, with components [tabletop, left front leg, left back leg, right front leg, right back leg], is 'right front leg' right of 'left front leg'?
+In a chair, with components [backrest, seat, left front leg, left back leg, right front leg, right back leg], is 'backrest' below 'left back leg'?
+In a bench, with components [backrest, seat, left front leg, left back leg, right front leg, right back leg], is 'backrest' behind 'right front leg'?
+In a bus, with components [chassis, left front wheel, right front wheel, left back wheel, right back wheel, left mirror, right mirror, left headlight, right headlight, driver seat, trunk, windshield], is 'chassis' below 'right front wheel'?
+In a chair, with components [backrest, seat, left front leg, left back leg, right front leg, right back leg], is 'seat' not connected to 'right back leg'?
+In a person, with components [torso, head, left leg, right leg, left arm, right arm, left eye, right eye, mouth, nose, left ear, right ear, left hand, right hand, left foot, right foot], is 'left ear' not connected to 'head'?
+In a tree, with components [roots, trunk, branches, leaves], is 'roots' connected to 'trunk'?
+In a bench, with components [backrest, seat, left front leg, left back leg, right front leg, right back leg], is 'right back leg' below 'seat'?
+In a table, with components [tabletop, left front leg, left back leg, right front leg, right back leg], is 'left front leg' behind 'left back leg'?
+In a boat, with components [sail, cabin, bow, stern, port side, starboard side, rudder], is 'bow' ahead of 'cabin'?

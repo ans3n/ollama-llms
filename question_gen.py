@@ -74,7 +74,7 @@ def main(args):
     # Write objectData to objects.txt
     with open(f'{args.out_dir}/objects.txt', 'w') as f:
         for obj in objectData:
-            f.write(f"Alias: {obj['alias']}, Components: {', '.join(obj['components'])}\n")
+            f.write(f"Object: {obj['alias']}, Components: {', '.join(obj['components'])}\n")
     '''
     # Write objectData to objects.txt without any prefix
     with open(f'{args.out_dir}/objects.txt', 'w') as f:
